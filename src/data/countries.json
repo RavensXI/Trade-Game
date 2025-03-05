@@ -1,0 +1,4901 @@
+{
+    "Greece": {
+        "code": "GR",
+        "coordinates": [
+            37.9838,
+            23.7275
+        ],
+        "tradeLinks": {
+            "Italy": {
+                "totalTrade": 12364290,
+                "topProduct": "Energy",
+                "topProductValue": 4965406
+            },
+            "Germany": {
+                "totalTrade": 7023039,
+                "topProduct": "Other",
+                "topProductValue": 3062104
+            },
+            "United States": {
+                "totalTrade": 4819713,
+                "topProduct": "Other",
+                "topProductValue": 2340155
+            },
+            "Turkey": {
+                "totalTrade": 4399187,
+                "topProduct": "Energy",
+                "topProductValue": 1763810
+            },
+            "United Kingdom": {
+                "totalTrade": 4094252,
+                "topProduct": "Other",
+                "topProductValue": 1533337
+            },
+            "Spain": {
+                "totalTrade": 3920182,
+                "topProduct": "Other",
+                "topProductValue": 1368753
+            },
+            "France": {
+                "totalTrade": 3036080,
+                "topProduct": "Other",
+                "topProductValue": 1420470
+            },
+            "Netherlands": {
+                "totalTrade": 2732225,
+                "topProduct": "Other",
+                "topProductValue": 1206037
+            },
+            "Saudi Arabia": {
+                "totalTrade": 2350554,
+                "topProduct": "Energy",
+                "topProductValue": 1763454
+            },
+            "Poland": {
+                "totalTrade": 2034552,
+                "topProduct": "Other",
+                "topProductValue": 1118014
+            },
+            "Israel": {
+                "totalTrade": 1735857,
+                "topProduct": "Other",
+                "topProductValue": 685914
+            },
+            "South Korea": {
+                "totalTrade": 1509577,
+                "topProduct": "Energy",
+                "topProductValue": 1137341
+            },
+            "Belgium": {
+                "totalTrade": 1314913,
+                "topProduct": "Other",
+                "topProductValue": 423590
+            },
+            "India": {
+                "totalTrade": 1216228,
+                "topProduct": "Energy",
+                "topProductValue": 835838
+            },
+            "Japan": {
+                "totalTrade": 1138611,
+                "topProduct": "Other",
+                "topProductValue": 978692
+            },
+            "China": {
+                "totalTrade": 1107398,
+                "topProduct": "Other",
+                "topProductValue": 364185
+            },
+            "Singapore": {
+                "totalTrade": 710392,
+                "topProduct": "Energy",
+                "topProductValue": 541237
+            },
+            "Canada": {
+                "totalTrade": 640262,
+                "topProduct": "Other",
+                "topProductValue": 343393
+            },
+            "Sweden": {
+                "totalTrade": 578216,
+                "topProduct": "Other",
+                "topProductValue": 295785
+            },
+            "Switzerland": {
+                "totalTrade": 574484,
+                "topProduct": "Other",
+                "topProductValue": 257463
+            },
+            "Australia": {
+                "totalTrade": 554297,
+                "topProduct": "Other",
+                "topProductValue": 241988
+            },
+            "Malaysia": {
+                "totalTrade": 381313,
+                "topProduct": "Energy",
+                "topProductValue": 203398
+            },
+            "Mexico": {
+                "totalTrade": 280309,
+                "topProduct": "Other",
+                "topProductValue": 113902
+            },
+            "Russia": {
+                "totalTrade": 252504,
+                "topProduct": "Other",
+                "topProductValue": 173838
+            },
+            "Indonesia": {
+                "totalTrade": 199613,
+                "topProduct": "Textiles",
+                "topProductValue": 88315
+            },
+            "Pakistan": {
+                "totalTrade": 156598,
+                "topProduct": "Textiles",
+                "topProductValue": 108315
+            },
+            "Thailand": {
+                "totalTrade": 155999,
+                "topProduct": "Other",
+                "topProductValue": 80103
+            },
+            "Brazil": {
+                "totalTrade": 136317,
+                "topProduct": "Other",
+                "topProductValue": 47633
+            },
+            "Vietnam": {
+                "totalTrade": 133074,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 58821
+            },
+            "Iran": {
+                "totalTrade": 48149,
+                "topProduct": "Other",
+                "topProductValue": 29161
+            }
+        }
+    },
+    "Iran": {
+        "code": "IR",
+        "coordinates": [
+            32.4279,
+            53.688
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 24244378,
+                "topProduct": "Other",
+                "topProductValue": 14677283
+            },
+            "Turkey": {
+                "totalTrade": 7218815,
+                "topProduct": "Other",
+                "topProductValue": 4057634
+            },
+            "India": {
+                "totalTrade": 2604989,
+                "topProduct": "Other",
+                "topProductValue": 1866936
+            },
+            "Pakistan": {
+                "totalTrade": 2397282,
+                "topProduct": "Energy",
+                "topProductValue": 1331264
+            },
+            "Indonesia": {
+                "totalTrade": 933535,
+                "topProduct": "Metals",
+                "topProductValue": 902974
+            },
+            "Thailand": {
+                "totalTrade": 798911,
+                "topProduct": "Metals",
+                "topProductValue": 602209
+            },
+            "Russia": {
+                "totalTrade": 691495,
+                "topProduct": "Other",
+                "topProductValue": 454854
+            },
+            "Germany": {
+                "totalTrade": 557512,
+                "topProduct": "Other",
+                "topProductValue": 361474
+            },
+            "Italy": {
+                "totalTrade": 340844,
+                "topProduct": "Other",
+                "topProductValue": 201876
+            },
+            "Spain": {
+                "totalTrade": 274410,
+                "topProduct": "Other",
+                "topProductValue": 224931
+            },
+            "Singapore": {
+                "totalTrade": 212179,
+                "topProduct": "Energy",
+                "topProductValue": 144642
+            },
+            "Malaysia": {
+                "totalTrade": 160656,
+                "topProduct": "Other",
+                "topProductValue": 74304
+            },
+            "Brazil": {
+                "totalTrade": 137684,
+                "topProduct": "Other",
+                "topProductValue": 136090
+            },
+            "South Korea": {
+                "totalTrade": 90666,
+                "topProduct": "Metals",
+                "topProductValue": 78799
+            },
+            "Netherlands": {
+                "totalTrade": 76576,
+                "topProduct": "Other",
+                "topProductValue": 38448
+            },
+            "Belgium": {
+                "totalTrade": 68934,
+                "topProduct": "Other",
+                "topProductValue": 51312
+            },
+            "Vietnam": {
+                "totalTrade": 67728,
+                "topProduct": "Metals",
+                "topProductValue": 36077
+            },
+            "United Kingdom": {
+                "totalTrade": 66302,
+                "topProduct": "Other",
+                "topProductValue": 42827
+            },
+            "Japan": {
+                "totalTrade": 65202,
+                "topProduct": "Textiles",
+                "topProductValue": 32745
+            },
+            "Poland": {
+                "totalTrade": 61102,
+                "topProduct": "Other",
+                "topProductValue": 46664
+            },
+            "Canada": {
+                "totalTrade": 55266,
+                "topProduct": "Other",
+                "topProductValue": 38871
+            },
+            "Australia": {
+                "totalTrade": 48986,
+                "topProduct": "Other",
+                "topProductValue": 27723
+            },
+            "Switzerland": {
+                "totalTrade": 37330,
+                "topProduct": "Other",
+                "topProductValue": 19155
+            },
+            "France": {
+                "totalTrade": 36863,
+                "topProduct": "Other",
+                "topProductValue": 26785
+            },
+            "Greece": {
+                "totalTrade": 35669,
+                "topProduct": "Other",
+                "topProductValue": 30988
+            },
+            "Sweden": {
+                "totalTrade": 24037,
+                "topProduct": "Other",
+                "topProductValue": 14955
+            },
+            "Saudi Arabia": {
+                "totalTrade": 15005,
+                "topProduct": "Metals",
+                "topProductValue": 14204
+            },
+            "United States": {
+                "totalTrade": 13472,
+                "topProduct": "Other",
+                "topProductValue": 13289
+            },
+            "Mexico": {
+                "totalTrade": 111,
+                "topProduct": "Textiles",
+                "topProductValue": 66
+            }
+        }
+    },
+    "Canada": {
+        "code": "CA",
+        "coordinates": [
+            56.1304,
+            -106.3468
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 853926761,
+                "topProduct": "Energy",
+                "topProductValue": 315416024
+            },
+            "China": {
+                "totalTrade": 54019450,
+                "topProduct": "Energy",
+                "topProductValue": 18470330
+            },
+            "Japan": {
+                "totalTrade": 27203110,
+                "topProduct": "Other",
+                "topProductValue": 9447840
+            },
+            "United Kingdom": {
+                "totalTrade": 22319031,
+                "topProduct": "Metals",
+                "topProductValue": 11690435
+            },
+            "Mexico": {
+                "totalTrade": 14577149,
+                "topProduct": "Other",
+                "topProductValue": 5052532
+            },
+            "Switzerland": {
+                "totalTrade": 12879550,
+                "topProduct": "Metals",
+                "topProductValue": 11480072
+            },
+            "South Korea": {
+                "totalTrade": 12713861,
+                "topProduct": "Energy",
+                "topProductValue": 4457902
+            },
+            "India": {
+                "totalTrade": 11495029,
+                "topProduct": "Other",
+                "topProductValue": 5926048
+            },
+            "Netherlands": {
+                "totalTrade": 10606593,
+                "topProduct": "Other",
+                "topProductValue": 3230847
+            },
+            "Germany": {
+                "totalTrade": 10095873,
+                "topProduct": "Metals",
+                "topProductValue": 2569910
+            },
+            "Brazil": {
+                "totalTrade": 8608285,
+                "topProduct": "Other",
+                "topProductValue": 7092091
+            },
+            "Belgium": {
+                "totalTrade": 7775444,
+                "topProduct": "Other",
+                "topProductValue": 5516050
+            },
+            "France": {
+                "totalTrade": 6881252,
+                "topProduct": "Other",
+                "topProductValue": 2619243
+            },
+            "Spain": {
+                "totalTrade": 5361068,
+                "topProduct": "Energy",
+                "topProductValue": 2383089
+            },
+            "Australia": {
+                "totalTrade": 5143230,
+                "topProduct": "Other",
+                "topProductValue": 2212056
+            },
+            "Indonesia": {
+                "totalTrade": 4513224,
+                "topProduct": "Other",
+                "topProductValue": 2081868
+            },
+            "Italy": {
+                "totalTrade": 4411658,
+                "topProduct": "Other",
+                "topProductValue": 1522066
+            },
+            "Singapore": {
+                "totalTrade": 3223504,
+                "topProduct": "Machinery",
+                "topProductValue": 1166204
+            },
+            "Saudi Arabia": {
+                "totalTrade": 2719006,
+                "topProduct": "Cars",
+                "topProductValue": 1766586
+            },
+            "Turkey": {
+                "totalTrade": 2483924,
+                "topProduct": "Other",
+                "topProductValue": 1400905
+            },
+            "Malaysia": {
+                "totalTrade": 2252304,
+                "topProduct": "Other",
+                "topProductValue": 1189584
+            },
+            "Poland": {
+                "totalTrade": 2068498,
+                "topProduct": "Energy",
+                "topProductValue": 685461
+            },
+            "Thailand": {
+                "totalTrade": 1927994,
+                "topProduct": "Other",
+                "topProductValue": 911586
+            },
+            "Vietnam": {
+                "totalTrade": 1314117,
+                "topProduct": "Other",
+                "topProductValue": 796435
+            },
+            "Sweden": {
+                "totalTrade": 1128616,
+                "topProduct": "Other",
+                "topProductValue": 406453
+            },
+            "Israel": {
+                "totalTrade": 911514,
+                "topProduct": "Other",
+                "topProductValue": 418822
+            },
+            "Pakistan": {
+                "totalTrade": 865790,
+                "topProduct": "Energy",
+                "topProductValue": 374740
+            },
+            "Iran": {
+                "totalTrade": 674401,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 599478
+            },
+            "Greece": {
+                "totalTrade": 261859,
+                "topProduct": "Other",
+                "topProductValue": 140370
+            },
+            "Russia": {
+                "totalTrade": 196885,
+                "topProduct": "Other",
+                "topProductValue": 128510
+            }
+        }
+    },
+    "Switzerland": {
+        "code": "SW",
+        "coordinates": [
+            46.8182,
+            8.2275
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 103443310,
+                "topProduct": "Other",
+                "topProductValue": 42058216
+            },
+            "United States": {
+                "totalTrade": 95832968,
+                "topProduct": "Other",
+                "topProductValue": 32341534
+            },
+            "China": {
+                "totalTrade": 89585859,
+                "topProduct": "Metals",
+                "topProductValue": 64370455
+            },
+            "Italy": {
+                "totalTrade": 38616792,
+                "topProduct": "Metals",
+                "topProductValue": 9702699
+            },
+            "France": {
+                "totalTrade": 38276863,
+                "topProduct": "Other",
+                "topProductValue": 12718886
+            },
+            "India": {
+                "totalTrade": 33475935,
+                "topProduct": "Metals",
+                "topProductValue": 29056010
+            },
+            "Turkey": {
+                "totalTrade": 30311894,
+                "topProduct": "Metals",
+                "topProductValue": 26673517
+            },
+            "United Kingdom": {
+                "totalTrade": 21672737,
+                "topProduct": "Other",
+                "topProductValue": 9933672
+            },
+            "Singapore": {
+                "totalTrade": 17496469,
+                "topProduct": "Metals",
+                "topProductValue": 10141475
+            },
+            "Japan": {
+                "totalTrade": 17371709,
+                "topProduct": "Other",
+                "topProductValue": 7564649
+            },
+            "Spain": {
+                "totalTrade": 17031581,
+                "topProduct": "Other",
+                "topProductValue": 6689336
+            },
+            "Netherlands": {
+                "totalTrade": 13517100,
+                "topProduct": "Other",
+                "topProductValue": 8394264
+            },
+            "Saudi Arabia": {
+                "totalTrade": 11948083,
+                "topProduct": "Metals",
+                "topProductValue": 8419238
+            },
+            "Belgium": {
+                "totalTrade": 11421345,
+                "topProduct": "Other",
+                "topProductValue": 7336744
+            },
+            "Thailand": {
+                "totalTrade": 10887424,
+                "topProduct": "Metals",
+                "topProductValue": 9040965
+            },
+            "Canada": {
+                "totalTrade": 10451668,
+                "topProduct": "Other",
+                "topProductValue": 4928558
+            },
+            "South Korea": {
+                "totalTrade": 7044266,
+                "topProduct": "Other",
+                "topProductValue": 2588673
+            },
+            "Poland": {
+                "totalTrade": 6372349,
+                "topProduct": "Other",
+                "topProductValue": 2274193
+            },
+            "Russia": {
+                "totalTrade": 5990659,
+                "topProduct": "Other",
+                "topProductValue": 2630220
+            },
+            "Brazil": {
+                "totalTrade": 5840284,
+                "topProduct": "Other",
+                "topProductValue": 2871342
+            },
+            "Israel": {
+                "totalTrade": 5624419,
+                "topProduct": "Other",
+                "topProductValue": 2689583
+            },
+            "Australia": {
+                "totalTrade": 5599273,
+                "topProduct": "Other",
+                "topProductValue": 2706195
+            },
+            "Mexico": {
+                "totalTrade": 3863667,
+                "topProduct": "Other",
+                "topProductValue": 1326377
+            },
+            "Sweden": {
+                "totalTrade": 3571696,
+                "topProduct": "Other",
+                "topProductValue": 1320730
+            },
+            "Malaysia": {
+                "totalTrade": 3402234,
+                "topProduct": "Metals",
+                "topProductValue": 1627464
+            },
+            "Indonesia": {
+                "totalTrade": 1498124,
+                "topProduct": "Other",
+                "topProductValue": 516164
+            },
+            "Iran": {
+                "totalTrade": 1261417,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 455111
+            },
+            "Greece": {
+                "totalTrade": 1234096,
+                "topProduct": "Other",
+                "topProductValue": 453401
+            },
+            "Vietnam": {
+                "totalTrade": 1137839,
+                "topProduct": "Other",
+                "topProductValue": 363185
+            },
+            "Pakistan": {
+                "totalTrade": 604994,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 215242
+            }
+        }
+    },
+    "Russia": {
+        "code": "RU",
+        "coordinates": [
+            61.524,
+            105.3188
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 243149731,
+                "topProduct": "Energy",
+                "topProductValue": 178977326
+            },
+            "India": {
+                "totalTrade": 106531306,
+                "topProduct": "Energy",
+                "topProductValue": 94123881
+            },
+            "Turkey": {
+                "totalTrade": 59309401,
+                "topProduct": "Energy",
+                "topProductValue": 31374658
+            },
+            "Germany": {
+                "totalTrade": 34825376,
+                "topProduct": "Energy",
+                "topProductValue": 23823793
+            },
+            "Italy": {
+                "totalTrade": 32944592,
+                "topProduct": "Energy",
+                "topProductValue": 26430244
+            },
+            "Netherlands": {
+                "totalTrade": 22694543,
+                "topProduct": "Energy",
+                "topProductValue": 19756010
+            },
+            "Japan": {
+                "totalTrade": 22218294,
+                "topProduct": "Energy",
+                "topProductValue": 14882844
+            },
+            "United States": {
+                "totalTrade": 19866646,
+                "topProduct": "Other",
+                "topProductValue": 10601059
+            },
+            "Brazil": {
+                "totalTrade": 19762139,
+                "topProduct": "Other",
+                "topProductValue": 11018709
+            },
+            "France": {
+                "totalTrade": 19506096,
+                "topProduct": "Energy",
+                "topProductValue": 16681261
+            },
+            "South Korea": {
+                "totalTrade": 14817289,
+                "topProduct": "Energy",
+                "topProductValue": 10699034
+            },
+            "Belgium": {
+                "totalTrade": 14776151,
+                "topProduct": "Energy",
+                "topProductValue": 9617203
+            },
+            "Poland": {
+                "totalTrade": 13714240,
+                "topProduct": "Energy",
+                "topProductValue": 10181769
+            },
+            "Greece": {
+                "totalTrade": 12466442,
+                "topProduct": "Energy",
+                "topProductValue": 11164561
+            },
+            "Spain": {
+                "totalTrade": 11402141,
+                "topProduct": "Energy",
+                "topProductValue": 9717396
+            },
+            "Switzerland": {
+                "totalTrade": 7927052,
+                "topProduct": "Metals",
+                "topProductValue": 7643994
+            },
+            "United Kingdom": {
+                "totalTrade": 7143330,
+                "topProduct": "Energy",
+                "topProductValue": 3147328
+            },
+            "Saudi Arabia": {
+                "totalTrade": 5872617,
+                "topProduct": "Energy",
+                "topProductValue": 2501035
+            },
+            "Singapore": {
+                "totalTrade": 5833770,
+                "topProduct": "Energy",
+                "topProductValue": 4863899
+            },
+            "Malaysia": {
+                "totalTrade": 4731503,
+                "topProduct": "Energy",
+                "topProductValue": 3887605
+            },
+            "Indonesia": {
+                "totalTrade": 4614372,
+                "topProduct": "Other",
+                "topProductValue": 2087794
+            },
+            "Israel": {
+                "totalTrade": 2430567,
+                "topProduct": "Energy",
+                "topProductValue": 991981
+            },
+            "Vietnam": {
+                "totalTrade": 1988936,
+                "topProduct": "Other",
+                "topProductValue": 923566
+            },
+            "Thailand": {
+                "totalTrade": 1950708,
+                "topProduct": "Other",
+                "topProductValue": 1062074
+            },
+            "Iran": {
+                "totalTrade": 1515258,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 963391
+            },
+            "Pakistan": {
+                "totalTrade": 1467995,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 986557
+            },
+            "Mexico": {
+                "totalTrade": 1238949,
+                "topProduct": "Other",
+                "topProductValue": 1164915
+            },
+            "Sweden": {
+                "totalTrade": 825760,
+                "topProduct": "Energy",
+                "topProductValue": 540971
+            },
+            "Canada": {
+                "totalTrade": 635781,
+                "topProduct": "Other",
+                "topProductValue": 373859
+            },
+            "Australia": {
+                "totalTrade": 580367,
+                "topProduct": "Energy",
+                "topProductValue": 255323
+            }
+        }
+    },
+    "Italy": {
+        "code": "IT",
+        "coordinates": [
+            41.8719,
+            12.5674
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 158210205,
+                "topProduct": "Other",
+                "topProductValue": 57316348
+            },
+            "United States": {
+                "totalTrade": 134387827,
+                "topProduct": "Other",
+                "topProductValue": 47544668
+            },
+            "France": {
+                "totalTrade": 128063771,
+                "topProduct": "Other",
+                "topProductValue": 47986513
+            },
+            "Spain": {
+                "totalTrade": 67786123,
+                "topProduct": "Other",
+                "topProductValue": 20785751
+            },
+            "Switzerland": {
+                "totalTrade": 60464851,
+                "topProduct": "Other",
+                "topProductValue": 18205565
+            },
+            "United Kingdom": {
+                "totalTrade": 57654189,
+                "topProduct": "Other",
+                "topProductValue": 23289541
+            },
+            "Belgium": {
+                "totalTrade": 44234563,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 13895210
+            },
+            "Poland": {
+                "totalTrade": 41399809,
+                "topProduct": "Other",
+                "topProductValue": 14036140
+            },
+            "Netherlands": {
+                "totalTrade": 40110364,
+                "topProduct": "Other",
+                "topProductValue": 19040147
+            },
+            "China": {
+                "totalTrade": 38406584,
+                "topProduct": "Other",
+                "topProductValue": 11658406
+            },
+            "Turkey": {
+                "totalTrade": 29697009,
+                "topProduct": "Other",
+                "topProductValue": 7630686
+            },
+            "Japan": {
+                "totalTrade": 18331198,
+                "topProduct": "Other",
+                "topProductValue": 7979874
+            },
+            "South Korea": {
+                "totalTrade": 14627842,
+                "topProduct": "Other",
+                "topProductValue": 5383074
+            },
+            "Canada": {
+                "totalTrade": 14102908,
+                "topProduct": "Other",
+                "topProductValue": 5067394
+            },
+            "Greece": {
+                "totalTrade": 13776791,
+                "topProduct": "Other",
+                "topProductValue": 5355692
+            },
+            "Sweden": {
+                "totalTrade": 13137293,
+                "topProduct": "Other",
+                "topProductValue": 4571707
+            },
+            "Mexico": {
+                "totalTrade": 12728790,
+                "topProduct": "Machinery",
+                "topProductValue": 3030972
+            },
+            "Australia": {
+                "totalTrade": 11768045,
+                "topProduct": "Other",
+                "topProductValue": 4611425
+            },
+            "India": {
+                "totalTrade": 11554669,
+                "topProduct": "Other",
+                "topProductValue": 4290811
+            },
+            "Brazil": {
+                "totalTrade": 11209081,
+                "topProduct": "Other",
+                "topProductValue": 3491690
+            },
+            "Russia": {
+                "totalTrade": 11149422,
+                "topProduct": "Other",
+                "topProductValue": 3995926
+            },
+            "Saudi Arabia": {
+                "totalTrade": 9670557,
+                "topProduct": "Other",
+                "topProductValue": 4236965
+            },
+            "Israel": {
+                "totalTrade": 7276624,
+                "topProduct": "Other",
+                "topProductValue": 3279390
+            },
+            "Singapore": {
+                "totalTrade": 6389112,
+                "topProduct": "Other",
+                "topProductValue": 2077452
+            },
+            "Thailand": {
+                "totalTrade": 4319780,
+                "topProduct": "Other",
+                "topProductValue": 1438231
+            },
+            "Malaysia": {
+                "totalTrade": 3215679,
+                "topProduct": "Other",
+                "topProductValue": 1065946
+            },
+            "Indonesia": {
+                "totalTrade": 3001346,
+                "topProduct": "Other",
+                "topProductValue": 991792
+            },
+            "Vietnam": {
+                "totalTrade": 2849866,
+                "topProduct": "Other",
+                "topProductValue": 901788
+            },
+            "Iran": {
+                "totalTrade": 1366411,
+                "topProduct": "Other",
+                "topProductValue": 460044
+            },
+            "Pakistan": {
+                "totalTrade": 1156958,
+                "topProduct": "Other",
+                "topProductValue": 369534
+            }
+        }
+    },
+    "Netherlands": {
+        "code": "NE",
+        "coordinates": [
+            52.1326,
+            5.2913
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 222953322,
+                "topProduct": "Other",
+                "topProductValue": 95004054
+            },
+            "Belgium": {
+                "totalTrade": 195205635,
+                "topProduct": "Energy",
+                "topProductValue": 86881363
+            },
+            "France": {
+                "totalTrade": 129142583,
+                "topProduct": "Other",
+                "topProductValue": 55518637
+            },
+            "Italy": {
+                "totalTrade": 76030013,
+                "topProduct": "Other",
+                "topProductValue": 35413063
+            },
+            "United Kingdom": {
+                "totalTrade": 58420584,
+                "topProduct": "Other",
+                "topProductValue": 23414828
+            },
+            "United States": {
+                "totalTrade": 55142930,
+                "topProduct": "Other",
+                "topProductValue": 21676633
+            },
+            "Spain": {
+                "totalTrade": 43079043,
+                "topProduct": "Other",
+                "topProductValue": 18269232
+            },
+            "Sweden": {
+                "totalTrade": 39854018,
+                "topProduct": "Other",
+                "topProductValue": 10854572
+            },
+            "Poland": {
+                "totalTrade": 38376122,
+                "topProduct": "Other",
+                "topProductValue": 17075916
+            },
+            "China": {
+                "totalTrade": 32690682,
+                "topProduct": "Electronics",
+                "topProductValue": 10772379
+            },
+            "South Korea": {
+                "totalTrade": 18719514,
+                "topProduct": "Electronics",
+                "topProductValue": 11984286
+            },
+            "Switzerland": {
+                "totalTrade": 12774023,
+                "topProduct": "Other",
+                "topProductValue": 6046535
+            },
+            "Turkey": {
+                "totalTrade": 10643011,
+                "topProduct": "Other",
+                "topProductValue": 6039034
+            },
+            "Greece": {
+                "totalTrade": 9553110,
+                "topProduct": "Other",
+                "topProductValue": 4115097
+            },
+            "Japan": {
+                "totalTrade": 8832485,
+                "topProduct": "Other",
+                "topProductValue": 3865392
+            },
+            "India": {
+                "totalTrade": 8294704,
+                "topProduct": "Other",
+                "topProductValue": 3283101
+            },
+            "Canada": {
+                "totalTrade": 7872484,
+                "topProduct": "Energy",
+                "topProductValue": 3294508
+            },
+            "Saudi Arabia": {
+                "totalTrade": 6780991,
+                "topProduct": "Other",
+                "topProductValue": 2884177
+            },
+            "Brazil": {
+                "totalTrade": 6463539,
+                "topProduct": "Energy",
+                "topProductValue": 2785958
+            },
+            "Russia": {
+                "totalTrade": 6411212,
+                "topProduct": "Other",
+                "topProductValue": 3236752
+            },
+            "Mexico": {
+                "totalTrade": 6278519,
+                "topProduct": "Energy",
+                "topProductValue": 2517613
+            },
+            "Singapore": {
+                "totalTrade": 6200700,
+                "topProduct": "Energy",
+                "topProductValue": 2150255
+            },
+            "Israel": {
+                "totalTrade": 5618249,
+                "topProduct": "Other",
+                "topProductValue": 1988562
+            },
+            "Australia": {
+                "totalTrade": 4972831,
+                "topProduct": "Other",
+                "topProductValue": 2523233
+            },
+            "Malaysia": {
+                "totalTrade": 2555144,
+                "topProduct": "Other",
+                "topProductValue": 986880
+            },
+            "Vietnam": {
+                "totalTrade": 2477710,
+                "topProduct": "Other",
+                "topProductValue": 1381498
+            },
+            "Thailand": {
+                "totalTrade": 2327512,
+                "topProduct": "Other",
+                "topProductValue": 916879
+            },
+            "Indonesia": {
+                "totalTrade": 1888415,
+                "topProduct": "Other",
+                "topProductValue": 924340
+            },
+            "Iran": {
+                "totalTrade": 1547903,
+                "topProduct": "Energy",
+                "topProductValue": 448353
+            },
+            "Pakistan": {
+                "totalTrade": 1384454,
+                "topProduct": "Energy",
+                "topProductValue": 572829
+            }
+        }
+    },
+    "China": {
+        "code": "CH",
+        "coordinates": [
+            35.8617,
+            104.1954
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 1004258411,
+                "topProduct": "Other",
+                "topProductValue": 342371601
+            },
+            "Japan": {
+                "totalTrade": 346642791,
+                "topProduct": "Other",
+                "topProductValue": 120767131
+            },
+            "Germany": {
+                "totalTrade": 303001414,
+                "topProduct": "Other",
+                "topProductValue": 122422477
+            },
+            "South Korea": {
+                "totalTrade": 295000106,
+                "topProduct": "Other",
+                "topProductValue": 107524750
+            },
+            "Vietnam": {
+                "totalTrade": 269116813,
+                "topProduct": "Other",
+                "topProductValue": 91619097
+            },
+            "India": {
+                "totalTrade": 222752894,
+                "topProduct": "Other",
+                "topProductValue": 79292857
+            },
+            "United Kingdom": {
+                "totalTrade": 201566186,
+                "topProduct": "Other",
+                "topProductValue": 70563763
+            },
+            "Russia": {
+                "totalTrade": 185370416,
+                "topProduct": "Other",
+                "topProductValue": 63495765
+            },
+            "Mexico": {
+                "totalTrade": 175187130,
+                "topProduct": "Other",
+                "topProductValue": 60075508
+            },
+            "Netherlands": {
+                "totalTrade": 173005092,
+                "topProduct": "Other",
+                "topProductValue": 60491991
+            },
+            "Australia": {
+                "totalTrade": 153975551,
+                "topProduct": "Other",
+                "topProductValue": 59461090
+            },
+            "Thailand": {
+                "totalTrade": 150742863,
+                "topProduct": "Other",
+                "topProductValue": 49681895
+            },
+            "Malaysia": {
+                "totalTrade": 143359659,
+                "topProduct": "Other",
+                "topProductValue": 42850488
+            },
+            "Canada": {
+                "totalTrade": 134575373,
+                "topProduct": "Other",
+                "topProductValue": 47397434
+            },
+            "Singapore": {
+                "totalTrade": 131680857,
+                "topProduct": "Other",
+                "topProductValue": 36580785
+            },
+            "Indonesia": {
+                "totalTrade": 129741313,
+                "topProduct": "Other",
+                "topProductValue": 48325159
+            },
+            "Brazil": {
+                "totalTrade": 121319972,
+                "topProduct": "Other",
+                "topProductValue": 55254614
+            },
+            "Italy": {
+                "totalTrade": 104839534,
+                "topProduct": "Other",
+                "topProductValue": 39536494
+            },
+            "France": {
+                "totalTrade": 96677319,
+                "topProduct": "Other",
+                "topProductValue": 40718503
+            },
+            "Spain": {
+                "totalTrade": 95947156,
+                "topProduct": "Other",
+                "topProductValue": 41989501
+            },
+            "Poland": {
+                "totalTrade": 83647470,
+                "topProduct": "Other",
+                "topProductValue": 35246716
+            },
+            "Turkey": {
+                "totalTrade": 82497656,
+                "topProduct": "Other",
+                "topProductValue": 29538803
+            },
+            "Saudi Arabia": {
+                "totalTrade": 80431332,
+                "topProduct": "Other",
+                "topProductValue": 30971744
+            },
+            "Belgium": {
+                "totalTrade": 53433969,
+                "topProduct": "Other",
+                "topProductValue": 20989305
+            },
+            "Switzerland": {
+                "totalTrade": 40482345,
+                "topProduct": "Other",
+                "topProductValue": 13822076
+            },
+            "Pakistan": {
+                "totalTrade": 36488599,
+                "topProduct": "Other",
+                "topProductValue": 13070507
+            },
+            "Israel": {
+                "totalTrade": 28902093,
+                "topProduct": "Other",
+                "topProductValue": 10930487
+            },
+            "Sweden": {
+                "totalTrade": 25073932,
+                "topProduct": "Other",
+                "topProductValue": 10792191
+            },
+            "Iran": {
+                "totalTrade": 21154081,
+                "topProduct": "Other",
+                "topProductValue": 5483109
+            },
+            "Greece": {
+                "totalTrade": 18618387,
+                "topProduct": "Other",
+                "topProductValue": 8843678
+            }
+        }
+    },
+    "Malaysia": {
+        "code": "MA",
+        "coordinates": [
+            4.2105,
+            101.9758
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 148453031,
+                "topProduct": "Energy",
+                "topProductValue": 67854145
+            },
+            "Singapore": {
+                "totalTrade": 104436963,
+                "topProduct": "Electronics",
+                "topProductValue": 39318456
+            },
+            "United States": {
+                "totalTrade": 90776021,
+                "topProduct": "Other",
+                "topProductValue": 30786590
+            },
+            "Japan": {
+                "totalTrade": 43077978,
+                "topProduct": "Energy",
+                "topProductValue": 19514300
+            },
+            "Thailand": {
+                "totalTrade": 28369516,
+                "topProduct": "Energy",
+                "topProductValue": 7909165
+            },
+            "South Korea": {
+                "totalTrade": 26821870,
+                "topProduct": "Energy",
+                "topProductValue": 12237400
+            },
+            "Australia": {
+                "totalTrade": 25142791,
+                "topProduct": "Energy",
+                "topProductValue": 14737551
+            },
+            "India": {
+                "totalTrade": 24583992,
+                "topProduct": "Energy",
+                "topProductValue": 9807799
+            },
+            "Indonesia": {
+                "totalTrade": 23791039,
+                "topProduct": "Energy",
+                "topProductValue": 11848320
+            },
+            "Vietnam": {
+                "totalTrade": 22388550,
+                "topProduct": "Electronics",
+                "topProductValue": 7606077
+            },
+            "Germany": {
+                "totalTrade": 21691416,
+                "topProduct": "Other",
+                "topProductValue": 8848502
+            },
+            "Netherlands": {
+                "totalTrade": 15267421,
+                "topProduct": "Energy",
+                "topProductValue": 4453074
+            },
+            "Mexico": {
+                "totalTrade": 11413546,
+                "topProduct": "Electronics",
+                "topProductValue": 5915910
+            },
+            "Turkey": {
+                "totalTrade": 8312590,
+                "topProduct": "Other",
+                "topProductValue": 3191769
+            },
+            "United Kingdom": {
+                "totalTrade": 8263235,
+                "topProduct": "Other",
+                "topProductValue": 3339336
+            },
+            "France": {
+                "totalTrade": 5440161,
+                "topProduct": "Other",
+                "topProductValue": 1545875
+            },
+            "Canada": {
+                "totalTrade": 4852598,
+                "topProduct": "Other",
+                "topProductValue": 1987748
+            },
+            "Saudi Arabia": {
+                "totalTrade": 3998802,
+                "topProduct": "Energy",
+                "topProductValue": 1977358
+            },
+            "Belgium": {
+                "totalTrade": 3977809,
+                "topProduct": "Other",
+                "topProductValue": 1962953
+            },
+            "Italy": {
+                "totalTrade": 3887624,
+                "topProduct": "Energy",
+                "topProductValue": 1567779
+            },
+            "Spain": {
+                "totalTrade": 3712675,
+                "topProduct": "Other",
+                "topProductValue": 1688406
+            },
+            "Brazil": {
+                "totalTrade": 2973112,
+                "topProduct": "Other",
+                "topProductValue": 1171056
+            },
+            "Pakistan": {
+                "totalTrade": 2423757,
+                "topProduct": "Energy",
+                "topProductValue": 1426578
+            },
+            "Switzerland": {
+                "totalTrade": 2129096,
+                "topProduct": "Other",
+                "topProductValue": 680420
+            },
+            "Poland": {
+                "totalTrade": 2034679,
+                "topProduct": "Machinery",
+                "topProductValue": 623474
+            },
+            "Iran": {
+                "totalTrade": 1332386,
+                "topProduct": "Energy",
+                "topProductValue": 968223
+            },
+            "Russia": {
+                "totalTrade": 1164826,
+                "topProduct": "Other",
+                "topProductValue": 550111
+            },
+            "Sweden": {
+                "totalTrade": 1131103,
+                "topProduct": "Energy",
+                "topProductValue": 458275
+            },
+            "Israel": {
+                "totalTrade": 362842,
+                "topProduct": "Other",
+                "topProductValue": 147961
+            },
+            "Greece": {
+                "totalTrade": 301318,
+                "topProduct": "Other",
+                "topProductValue": 127765
+            }
+        }
+    },
+    "Israel": {
+        "code": "IS",
+        "coordinates": [
+            31.0461,
+            34.8516
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 40901909,
+                "topProduct": "Other",
+                "topProductValue": 22244884
+            },
+            "China": {
+                "totalTrade": 11771255,
+                "topProduct": "Electronics",
+                "topProductValue": 5371173
+            },
+            "United Kingdom": {
+                "totalTrade": 5359002,
+                "topProduct": "Other",
+                "topProductValue": 2226413
+            },
+            "Germany": {
+                "totalTrade": 5024608,
+                "topProduct": "Other",
+                "topProductValue": 2325144
+            },
+            "India": {
+                "totalTrade": 4858110,
+                "topProduct": "Other",
+                "topProductValue": 2916914
+            },
+            "Turkey": {
+                "totalTrade": 4144842,
+                "topProduct": "Energy",
+                "topProductValue": 1698574
+            },
+            "Netherlands": {
+                "totalTrade": 4028151,
+                "topProduct": "Other",
+                "topProductValue": 1539072
+            },
+            "Brazil": {
+                "totalTrade": 3777353,
+                "topProduct": "Other",
+                "topProductValue": 2547576
+            },
+            "France": {
+                "totalTrade": 2876959,
+                "topProduct": "Other",
+                "topProductValue": 1715091
+            },
+            "South Korea": {
+                "totalTrade": 2627781,
+                "topProduct": "Other",
+                "topProductValue": 918810
+            },
+            "Japan": {
+                "totalTrade": 2552910,
+                "topProduct": "Other",
+                "topProductValue": 960895
+            },
+            "Italy": {
+                "totalTrade": 2381366,
+                "topProduct": "Other",
+                "topProductValue": 1304682
+            },
+            "Canada": {
+                "totalTrade": 2323440,
+                "topProduct": "Other",
+                "topProductValue": 1248075
+            },
+            "Belgium": {
+                "totalTrade": 2320527,
+                "topProduct": "Other",
+                "topProductValue": 1401346
+            },
+            "Spain": {
+                "totalTrade": 2231576,
+                "topProduct": "Other",
+                "topProductValue": 1094137
+            },
+            "Singapore": {
+                "totalTrade": 1781755,
+                "topProduct": "Other",
+                "topProductValue": 750479
+            },
+            "Switzerland": {
+                "totalTrade": 1460504,
+                "topProduct": "Other",
+                "topProductValue": 1106801
+            },
+            "Australia": {
+                "totalTrade": 1280120,
+                "topProduct": "Other",
+                "topProductValue": 623224
+            },
+            "Russia": {
+                "totalTrade": 1205186,
+                "topProduct": "Other",
+                "topProductValue": 703990
+            },
+            "Mexico": {
+                "totalTrade": 1188742,
+                "topProduct": "Other",
+                "topProductValue": 473016
+            },
+            "Vietnam": {
+                "totalTrade": 1172900,
+                "topProduct": "Electronics",
+                "topProductValue": 746681
+            },
+            "Greece": {
+                "totalTrade": 980684,
+                "topProduct": "Energy",
+                "topProductValue": 511638
+            },
+            "Thailand": {
+                "totalTrade": 919723,
+                "topProduct": "Other",
+                "topProductValue": 624827
+            },
+            "Poland": {
+                "totalTrade": 809816,
+                "topProduct": "Other",
+                "topProductValue": 321256
+            },
+            "Sweden": {
+                "totalTrade": 351303,
+                "topProduct": "Other",
+                "topProductValue": 141249
+            },
+            "Indonesia": {
+                "totalTrade": 105371,
+                "topProduct": "Other",
+                "topProductValue": 34401
+            },
+            "Malaysia": {
+                "totalTrade": 98968,
+                "topProduct": "Energy",
+                "topProductValue": 48401
+            }
+        }
+    },
+    "Australia": {
+        "code": "AU",
+        "coordinates": [
+            -25.2744,
+            133.7751
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 275018409,
+                "topProduct": "Metals",
+                "topProductValue": 182164607
+            },
+            "Japan": {
+                "totalTrade": 147866331,
+                "topProduct": "Energy",
+                "topProductValue": 111103494
+            },
+            "South Korea": {
+                "totalTrade": 64139313,
+                "topProduct": "Energy",
+                "topProductValue": 36091158
+            },
+            "India": {
+                "totalTrade": 44001032,
+                "topProduct": "Energy",
+                "topProductValue": 34134750
+            },
+            "United States": {
+                "totalTrade": 27334378,
+                "topProduct": "Other",
+                "topProductValue": 15099889
+            },
+            "Indonesia": {
+                "totalTrade": 18783124,
+                "topProduct": "Other",
+                "topProductValue": 4631878
+            },
+            "Vietnam": {
+                "totalTrade": 18319176,
+                "topProduct": "Energy",
+                "topProductValue": 7474412
+            },
+            "Malaysia": {
+                "totalTrade": 17736802,
+                "topProduct": "Energy",
+                "topProductValue": 9242319
+            },
+            "Singapore": {
+                "totalTrade": 16296424,
+                "topProduct": "Energy",
+                "topProductValue": 7841768
+            },
+            "Thailand": {
+                "totalTrade": 14255056,
+                "topProduct": "Energy",
+                "topProductValue": 7694733
+            },
+            "Germany": {
+                "totalTrade": 9379377,
+                "topProduct": "Energy",
+                "topProductValue": 5919702
+            },
+            "Switzerland": {
+                "totalTrade": 8639331,
+                "topProduct": "Metals",
+                "topProductValue": 8019264
+            },
+            "Netherlands": {
+                "totalTrade": 8287654,
+                "topProduct": "Energy",
+                "topProductValue": 4912990
+            },
+            "United Kingdom": {
+                "totalTrade": 7207413,
+                "topProduct": "Metals",
+                "topProductValue": 2591973
+            },
+            "Brazil": {
+                "totalTrade": 4822947,
+                "topProduct": "Energy",
+                "topProductValue": 3715411
+            },
+            "Canada": {
+                "totalTrade": 4499691,
+                "topProduct": "Other",
+                "topProductValue": 1623337
+            },
+            "France": {
+                "totalTrade": 3838627,
+                "topProduct": "Energy",
+                "topProductValue": 2898294
+            },
+            "Belgium": {
+                "totalTrade": 2984200,
+                "topProduct": "Energy",
+                "topProductValue": 2222529
+            },
+            "Saudi Arabia": {
+                "totalTrade": 2927369,
+                "topProduct": "Other",
+                "topProductValue": 1286105
+            },
+            "Turkey": {
+                "totalTrade": 2627981,
+                "topProduct": "Energy",
+                "topProductValue": 1662550
+            },
+            "Italy": {
+                "totalTrade": 1991017,
+                "topProduct": "Energy",
+                "topProductValue": 790848
+            },
+            "Spain": {
+                "totalTrade": 1960033,
+                "topProduct": "Energy",
+                "topProductValue": 1032145
+            },
+            "Poland": {
+                "totalTrade": 1751302,
+                "topProduct": "Energy",
+                "topProductValue": 1496579
+            },
+            "Sweden": {
+                "totalTrade": 1556951,
+                "topProduct": "Energy",
+                "topProductValue": 744686
+            },
+            "Pakistan": {
+                "totalTrade": 1498339,
+                "topProduct": "Other",
+                "topProductValue": 622549
+            },
+            "Mexico": {
+                "totalTrade": 1043679,
+                "topProduct": "Energy",
+                "topProductValue": 354381
+            },
+            "Israel": {
+                "totalTrade": 507608,
+                "topProduct": "Other",
+                "topProductValue": 349230
+            },
+            "Russia": {
+                "totalTrade": 152945,
+                "topProduct": "Other",
+                "topProductValue": 129771
+            },
+            "Iran": {
+                "totalTrade": 133317,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 62760
+            },
+            "Greece": {
+                "totalTrade": 100848,
+                "topProduct": "Energy",
+                "topProductValue": 41687
+            }
+        }
+    },
+    "Turkey": {
+        "code": "TU",
+        "coordinates": [
+            38.9637,
+            35.2433
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 42902839,
+                "topProduct": "Other",
+                "topProductValue": 14819160
+            },
+            "United States": {
+                "totalTrade": 32045515,
+                "topProduct": "Other",
+                "topProductValue": 11561492
+            },
+            "United Kingdom": {
+                "totalTrade": 27747835,
+                "topProduct": "Other",
+                "topProductValue": 8066201
+            },
+            "Italy": {
+                "totalTrade": 25683262,
+                "topProduct": "Other",
+                "topProductValue": 7366119
+            },
+            "France": {
+                "totalTrade": 20238698,
+                "topProduct": "Cars",
+                "topProductValue": 6974521
+            },
+            "Russia": {
+                "totalTrade": 20045248,
+                "topProduct": "Other",
+                "topProductValue": 8176242
+            },
+            "Spain": {
+                "totalTrade": 19592325,
+                "topProduct": "Other",
+                "topProductValue": 5775465
+            },
+            "Netherlands": {
+                "totalTrade": 15862316,
+                "topProduct": "Other",
+                "topProductValue": 5008495
+            },
+            "Israel": {
+                "totalTrade": 11727103,
+                "topProduct": "Other",
+                "topProductValue": 5022360
+            },
+            "Poland": {
+                "totalTrade": 11553896,
+                "topProduct": "Other",
+                "topProductValue": 3922903
+            },
+            "Belgium": {
+                "totalTrade": 9249478,
+                "topProduct": "Other",
+                "topProductValue": 2708270
+            },
+            "Greece": {
+                "totalTrade": 7285664,
+                "topProduct": "Other",
+                "topProductValue": 2196080
+            },
+            "China": {
+                "totalTrade": 7142178,
+                "topProduct": "Metals",
+                "topProductValue": 2732454
+            },
+            "Iran": {
+                "totalTrade": 6977113,
+                "topProduct": "Other",
+                "topProductValue": 2975671
+            },
+            "India": {
+                "totalTrade": 6678184,
+                "topProduct": "Energy",
+                "topProductValue": 3221292
+            },
+            "Switzerland": {
+                "totalTrade": 3986878,
+                "topProduct": "Other",
+                "topProductValue": 1124873
+            },
+            "Saudi Arabia": {
+                "totalTrade": 3773854,
+                "topProduct": "Other",
+                "topProductValue": 1558222
+            },
+            "Canada": {
+                "totalTrade": 3665837,
+                "topProduct": "Other",
+                "topProductValue": 1343175
+            },
+            "Sweden": {
+                "totalTrade": 3370877,
+                "topProduct": "Other",
+                "topProductValue": 958670
+            },
+            "Mexico": {
+                "totalTrade": 2339660,
+                "topProduct": "Metals",
+                "topProductValue": 701739
+            },
+            "South Korea": {
+                "totalTrade": 2132161,
+                "topProduct": "Other",
+                "topProductValue": 1381431
+            },
+            "Australia": {
+                "totalTrade": 2007400,
+                "topProduct": "Other",
+                "topProductValue": 616476
+            },
+            "Brazil": {
+                "totalTrade": 1996868,
+                "topProduct": "Other",
+                "topProductValue": 649429
+            },
+            "Singapore": {
+                "totalTrade": 1664050,
+                "topProduct": "Energy",
+                "topProductValue": 956991
+            },
+            "Japan": {
+                "totalTrade": 1505501,
+                "topProduct": "Other",
+                "topProductValue": 665301
+            },
+            "Pakistan": {
+                "totalTrade": 1371660,
+                "topProduct": "Other",
+                "topProductValue": 474921
+            },
+            "Indonesia": {
+                "totalTrade": 1060817,
+                "topProduct": "Other",
+                "topProductValue": 335728
+            },
+            "Malaysia": {
+                "totalTrade": 1057460,
+                "topProduct": "Metals",
+                "topProductValue": 323297
+            },
+            "Vietnam": {
+                "totalTrade": 814930,
+                "topProduct": "Other",
+                "topProductValue": 273169
+            },
+            "Thailand": {
+                "totalTrade": 710502,
+                "topProduct": "Other",
+                "topProductValue": 211359
+            }
+        }
+    },
+    "France": {
+        "code": "FR",
+        "coordinates": [
+            46.6034,
+            1.8883
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 157233936,
+                "topProduct": "Other",
+                "topProductValue": 56758359
+            },
+            "Italy": {
+                "totalTrade": 114169343,
+                "topProduct": "Other",
+                "topProductValue": 37976020
+            },
+            "Belgium": {
+                "totalTrade": 99009253,
+                "topProduct": "Other",
+                "topProductValue": 29936268
+            },
+            "United States": {
+                "totalTrade": 96583933,
+                "topProduct": "Other",
+                "topProductValue": 41501865
+            },
+            "Spain": {
+                "totalTrade": 94235210,
+                "topProduct": "Other",
+                "topProductValue": 34051576
+            },
+            "United Kingdom": {
+                "totalTrade": 74546296,
+                "topProduct": "Other",
+                "topProductValue": 26232761
+            },
+            "China": {
+                "totalTrade": 53423642,
+                "topProduct": "Other",
+                "topProductValue": 25183537
+            },
+            "Netherlands": {
+                "totalTrade": 52024399,
+                "topProduct": "Other",
+                "topProductValue": 19291425
+            },
+            "Switzerland": {
+                "totalTrade": 45134278,
+                "topProduct": "Other",
+                "topProductValue": 14244428
+            },
+            "Poland": {
+                "totalTrade": 29689324,
+                "topProduct": "Other",
+                "topProductValue": 10572734
+            },
+            "Turkey": {
+                "totalTrade": 21909007,
+                "topProduct": "Other",
+                "topProductValue": 8963779
+            },
+            "Singapore": {
+                "totalTrade": 21707351,
+                "topProduct": "Other",
+                "topProductValue": 10270158
+            },
+            "Japan": {
+                "totalTrade": 15834595,
+                "topProduct": "Other",
+                "topProductValue": 6824207
+            },
+            "South Korea": {
+                "totalTrade": 13490225,
+                "topProduct": "Other",
+                "topProductValue": 5599522
+            },
+            "Sweden": {
+                "totalTrade": 13323233,
+                "topProduct": "Other",
+                "topProductValue": 4059098
+            },
+            "India": {
+                "totalTrade": 12596530,
+                "topProduct": "Other",
+                "topProductValue": 6939500
+            },
+            "Canada": {
+                "totalTrade": 10137753,
+                "topProduct": "Other",
+                "topProductValue": 4537422
+            },
+            "Brazil": {
+                "totalTrade": 10126162,
+                "topProduct": "Other",
+                "topProductValue": 4238477
+            },
+            "Saudi Arabia": {
+                "totalTrade": 9181566,
+                "topProduct": "Other",
+                "topProductValue": 4588556
+            },
+            "Australia": {
+                "totalTrade": 8900901,
+                "topProduct": "Other",
+                "topProductValue": 3358501
+            },
+            "Greece": {
+                "totalTrade": 7742192,
+                "topProduct": "Other",
+                "topProductValue": 3201978
+            },
+            "Mexico": {
+                "totalTrade": 7279690,
+                "topProduct": "Other",
+                "topProductValue": 2966835
+            },
+            "Russia": {
+                "totalTrade": 5400961,
+                "topProduct": "Other",
+                "topProductValue": 2390697
+            },
+            "Israel": {
+                "totalTrade": 5270269,
+                "topProduct": "Other",
+                "topProductValue": 2778497
+            },
+            "Thailand": {
+                "totalTrade": 4490149,
+                "topProduct": "Other",
+                "topProductValue": 2387771
+            },
+            "Malaysia": {
+                "totalTrade": 3775550,
+                "topProduct": "Other",
+                "topProductValue": 1735149
+            },
+            "Vietnam": {
+                "totalTrade": 2638035,
+                "topProduct": "Other",
+                "topProductValue": 1184050
+            },
+            "Indonesia": {
+                "totalTrade": 2575779,
+                "topProduct": "Other",
+                "topProductValue": 1285445
+            },
+            "Pakistan": {
+                "totalTrade": 1003679,
+                "topProduct": "Other",
+                "topProductValue": 379781
+            },
+            "Iran": {
+                "totalTrade": 654855,
+                "topProduct": "Other",
+                "topProductValue": 311181
+            }
+        }
+    },
+    "Japan": {
+        "code": "JA",
+        "coordinates": [
+            36.2048,
+            138.2529
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 283628548,
+                "topProduct": "Cars",
+                "topProductValue": 104649408
+            },
+            "China": {
+                "totalTrade": 265660250,
+                "topProduct": "Other",
+                "topProductValue": 82687469
+            },
+            "South Korea": {
+                "totalTrade": 90010488,
+                "topProduct": "Other",
+                "topProductValue": 29788588
+            },
+            "Thailand": {
+                "totalTrade": 60614373,
+                "topProduct": "Other",
+                "topProductValue": 13572540
+            },
+            "Germany": {
+                "totalTrade": 44512494,
+                "topProduct": "Other",
+                "topProductValue": 16482332
+            },
+            "Singapore": {
+                "totalTrade": 39949391,
+                "topProduct": "Electronics",
+                "topProductValue": 10361100
+            },
+            "Vietnam": {
+                "totalTrade": 35579908,
+                "topProduct": "Other",
+                "topProductValue": 11288220
+            },
+            "Australia": {
+                "totalTrade": 35039180,
+                "topProduct": "Cars",
+                "topProductValue": 21361305
+            },
+            "India": {
+                "totalTrade": 33553811,
+                "topProduct": "Metals",
+                "topProductValue": 10049099
+            },
+            "Indonesia": {
+                "totalTrade": 30821053,
+                "topProduct": "Other",
+                "topProductValue": 7982470
+            },
+            "Malaysia": {
+                "totalTrade": 30693022,
+                "topProduct": "Electronics",
+                "topProductValue": 7439095
+            },
+            "United Kingdom": {
+                "totalTrade": 27516269,
+                "topProduct": "Other",
+                "topProductValue": 8333870
+            },
+            "Mexico": {
+                "totalTrade": 25482342,
+                "topProduct": "Cars",
+                "topProductValue": 7546401
+            },
+            "Canada": {
+                "totalTrade": 25279899,
+                "topProduct": "Cars",
+                "topProductValue": 11790336
+            },
+            "Netherlands": {
+                "totalTrade": 23194185,
+                "topProduct": "Other",
+                "topProductValue": 9570683
+            },
+            "Belgium": {
+                "totalTrade": 15528591,
+                "topProduct": "Cars",
+                "topProductValue": 8563694
+            },
+            "Saudi Arabia": {
+                "totalTrade": 14730613,
+                "topProduct": "Cars",
+                "topProductValue": 10523450
+            },
+            "Switzerland": {
+                "totalTrade": 13135312,
+                "topProduct": "Metals",
+                "topProductValue": 4906507
+            },
+            "France": {
+                "totalTrade": 11456874,
+                "topProduct": "Other",
+                "topProductValue": 4162117
+            },
+            "Italy": {
+                "totalTrade": 11370536,
+                "topProduct": "Cars",
+                "topProductValue": 3392294
+            },
+            "Brazil": {
+                "totalTrade": 10351562,
+                "topProduct": "Cars",
+                "topProductValue": 2736554
+            },
+            "Turkey": {
+                "totalTrade": 9319038,
+                "topProduct": "Other",
+                "topProductValue": 2774974
+            },
+            "Poland": {
+                "totalTrade": 8933476,
+                "topProduct": "Cars",
+                "topProductValue": 3473908
+            },
+            "Spain": {
+                "totalTrade": 8295525,
+                "topProduct": "Cars",
+                "topProductValue": 3639745
+            },
+            "Russia": {
+                "totalTrade": 6945437,
+                "topProduct": "Cars",
+                "topProductValue": 4708836
+            },
+            "Sweden": {
+                "totalTrade": 2977214,
+                "topProduct": "Cars",
+                "topProductValue": 1397224
+            },
+            "Israel": {
+                "totalTrade": 2955023,
+                "topProduct": "Cars",
+                "topProductValue": 1558369
+            },
+            "Pakistan": {
+                "totalTrade": 2843406,
+                "topProduct": "Cars",
+                "topProductValue": 1032832
+            },
+            "Greece": {
+                "totalTrade": 752660,
+                "topProduct": "Cars",
+                "topProductValue": 288773
+            },
+            "Iran": {
+                "totalTrade": 142241,
+                "topProduct": "Other",
+                "topProductValue": 74277
+            }
+        }
+    },
+    "Mexico": {
+        "code": "ME",
+        "coordinates": [
+            23.6345,
+            -102.5528
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 897721909,
+                "topProduct": "Other",
+                "topProductValue": 278335842
+            },
+            "Canada": {
+                "totalTrade": 63947787,
+                "topProduct": "Cars",
+                "topProductValue": 24430924
+            },
+            "China": {
+                "totalTrade": 27828116,
+                "topProduct": "Metals",
+                "topProductValue": 8723325
+            },
+            "Germany": {
+                "totalTrade": 20201796,
+                "topProduct": "Cars",
+                "topProductValue": 10109817
+            },
+            "Spain": {
+                "totalTrade": 12227766,
+                "topProduct": "Energy",
+                "topProductValue": 7692575
+            },
+            "Brazil": {
+                "totalTrade": 11253071,
+                "topProduct": "Cars",
+                "topProductValue": 3494811
+            },
+            "United Kingdom": {
+                "totalTrade": 10853236,
+                "topProduct": "Metals",
+                "topProductValue": 2957745
+            },
+            "Japan": {
+                "totalTrade": 10799448,
+                "topProduct": "Other",
+                "topProductValue": 4737201
+            },
+            "South Korea": {
+                "totalTrade": 9875710,
+                "topProduct": "Energy",
+                "topProductValue": 3913432
+            },
+            "India": {
+                "totalTrade": 8408246,
+                "topProduct": "Energy",
+                "topProductValue": 5440155
+            },
+            "Belgium": {
+                "totalTrade": 6059419,
+                "topProduct": "Other",
+                "topProductValue": 2700837
+            },
+            "Australia": {
+                "totalTrade": 5487973,
+                "topProduct": "Cars",
+                "topProductValue": 1716929
+            },
+            "Switzerland": {
+                "totalTrade": 5259266,
+                "topProduct": "Metals",
+                "topProductValue": 3620791
+            },
+            "Singapore": {
+                "totalTrade": 4596538,
+                "topProduct": "Other",
+                "topProductValue": 1671139
+            },
+            "France": {
+                "totalTrade": 3464549,
+                "topProduct": "Other",
+                "topProductValue": 1346700
+            },
+            "Netherlands": {
+                "totalTrade": 3450539,
+                "topProduct": "Machinery",
+                "topProductValue": 1399699
+            },
+            "Italy": {
+                "totalTrade": 2530598,
+                "topProduct": "Other",
+                "topProductValue": 840505
+            },
+            "Saudi Arabia": {
+                "totalTrade": 2470769,
+                "topProduct": "Cars",
+                "topProductValue": 806738
+            },
+            "Turkey": {
+                "totalTrade": 2405675,
+                "topProduct": "Other",
+                "topProductValue": 921008
+            },
+            "Thailand": {
+                "totalTrade": 1897631,
+                "topProduct": "Other",
+                "topProductValue": 747314
+            },
+            "Malaysia": {
+                "totalTrade": 1324002,
+                "topProduct": "Other",
+                "topProductValue": 527785
+            },
+            "Vietnam": {
+                "totalTrade": 1079094,
+                "topProduct": "Electronics",
+                "topProductValue": 543766
+            },
+            "Poland": {
+                "totalTrade": 898047,
+                "topProduct": "Cars",
+                "topProductValue": 297101
+            },
+            "Indonesia": {
+                "totalTrade": 702972,
+                "topProduct": "Machinery",
+                "topProductValue": 189559
+            },
+            "Israel": {
+                "totalTrade": 601224,
+                "topProduct": "Other",
+                "topProductValue": 226522
+            },
+            "Sweden": {
+                "totalTrade": 336362,
+                "topProduct": "Other",
+                "topProductValue": 188891
+            },
+            "Greece": {
+                "totalTrade": 216153,
+                "topProduct": "Other",
+                "topProductValue": 144545
+            },
+            "Pakistan": {
+                "totalTrade": 155061,
+                "topProduct": "Textiles",
+                "topProductValue": 55878
+            },
+            "Russia": {
+                "totalTrade": 15515,
+                "topProduct": "Metals",
+                "topProductValue": 8696
+            },
+            "Iran": {
+                "totalTrade": 1228,
+                "topProduct": "Other",
+                "topProductValue": 1170
+            }
+        }
+    },
+    "Pakistan": {
+        "code": "PA",
+        "coordinates": [
+            30.3753,
+            69.3451
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 10862944,
+                "topProduct": "Textiles",
+                "topProductValue": 6694856
+            },
+            "China": {
+                "totalTrade": 6910419,
+                "topProduct": "Metals",
+                "topProductValue": 3156295
+            },
+            "Germany": {
+                "totalTrade": 4947765,
+                "topProduct": "Textiles",
+                "topProductValue": 3344937
+            },
+            "United Kingdom": {
+                "totalTrade": 4686580,
+                "topProduct": "Textiles",
+                "topProductValue": 2146782
+            },
+            "Spain": {
+                "totalTrade": 3181432,
+                "topProduct": "Textiles",
+                "topProductValue": 2008000
+            },
+            "Italy": {
+                "totalTrade": 2517917,
+                "topProduct": "Textiles",
+                "topProductValue": 1377474
+            },
+            "Netherlands": {
+                "totalTrade": 2381340,
+                "topProduct": "Textiles",
+                "topProductValue": 1330435
+            },
+            "France": {
+                "totalTrade": 1731353,
+                "topProduct": "Textiles",
+                "topProductValue": 910888
+            },
+            "Saudi Arabia": {
+                "totalTrade": 1375075,
+                "topProduct": "Other",
+                "topProductValue": 857297
+            },
+            "Poland": {
+                "totalTrade": 1086975,
+                "topProduct": "Textiles",
+                "topProductValue": 712137
+            },
+            "Canada": {
+                "totalTrade": 1045908,
+                "topProduct": "Textiles",
+                "topProductValue": 470075
+            },
+            "Turkey": {
+                "totalTrade": 911143,
+                "topProduct": "Textiles",
+                "topProductValue": 505329
+            },
+            "Malaysia": {
+                "totalTrade": 861445,
+                "topProduct": "Other",
+                "topProductValue": 512576
+            },
+            "Belgium": {
+                "totalTrade": 833037,
+                "topProduct": "Other",
+                "topProductValue": 360097
+            },
+            "Iran": {
+                "totalTrade": 791096,
+                "topProduct": "Other",
+                "topProductValue": 742118
+            },
+            "Thailand": {
+                "totalTrade": 755816,
+                "topProduct": "Energy",
+                "topProductValue": 286104
+            },
+            "Australia": {
+                "totalTrade": 718783,
+                "topProduct": "Other",
+                "topProductValue": 301110
+            },
+            "Vietnam": {
+                "totalTrade": 695099,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 345934
+            },
+            "South Korea": {
+                "totalTrade": 677300,
+                "topProduct": "Energy",
+                "topProductValue": 228722
+            },
+            "Japan": {
+                "totalTrade": 586391,
+                "topProduct": "Textiles",
+                "topProductValue": 259314
+            },
+            "Switzerland": {
+                "totalTrade": 524734,
+                "topProduct": "Textiles",
+                "topProductValue": 389509
+            },
+            "Indonesia": {
+                "totalTrade": 509599,
+                "topProduct": "Other",
+                "topProductValue": 367685
+            },
+            "Mexico": {
+                "totalTrade": 494926,
+                "topProduct": "Textiles",
+                "topProductValue": 303218
+            },
+            "Sweden": {
+                "totalTrade": 364411,
+                "topProduct": "Textiles",
+                "topProductValue": 182373
+            },
+            "Singapore": {
+                "totalTrade": 344457,
+                "topProduct": "Energy",
+                "topProductValue": 202024
+            },
+            "Brazil": {
+                "totalTrade": 311180,
+                "topProduct": "Textiles",
+                "topProductValue": 143874
+            },
+            "Greece": {
+                "totalTrade": 268278,
+                "topProduct": "Textiles",
+                "topProductValue": 123693
+            },
+            "Russia": {
+                "totalTrade": 164134,
+                "topProduct": "Textiles",
+                "topProductValue": 74775
+            },
+            "Israel": {
+                "totalTrade": 41069,
+                "topProduct": "Textiles",
+                "topProductValue": 31064
+            },
+            "India": {
+                "totalTrade": 18679,
+                "topProduct": "Other",
+                "topProductValue": 17820
+            }
+        }
+    },
+    "Poland": {
+        "code": "PO",
+        "coordinates": [
+            51.9194,
+            19.1451
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 172091968,
+                "topProduct": "Other",
+                "topProductValue": 71368374
+            },
+            "France": {
+                "totalTrade": 36968383,
+                "topProduct": "Other",
+                "topProductValue": 15288763
+            },
+            "United Kingdom": {
+                "totalTrade": 36629367,
+                "topProduct": "Other",
+                "topProductValue": 14242089
+            },
+            "Italy": {
+                "totalTrade": 32356052,
+                "topProduct": "Other",
+                "topProductValue": 11992614
+            },
+            "Netherlands": {
+                "totalTrade": 31297210,
+                "topProduct": "Other",
+                "topProductValue": 12269864
+            },
+            "United States": {
+                "totalTrade": 24918471,
+                "topProduct": "Other",
+                "topProductValue": 12051091
+            },
+            "Spain": {
+                "totalTrade": 18287726,
+                "topProduct": "Other",
+                "topProductValue": 7049242
+            },
+            "Sweden": {
+                "totalTrade": 16776449,
+                "topProduct": "Other",
+                "topProductValue": 5978439
+            },
+            "Belgium": {
+                "totalTrade": 16415455,
+                "topProduct": "Other",
+                "topProductValue": 7815377
+            },
+            "Turkey": {
+                "totalTrade": 9669422,
+                "topProduct": "Other",
+                "topProductValue": 3841325
+            },
+            "China": {
+                "totalTrade": 8698873,
+                "topProduct": "Other",
+                "topProductValue": 3667835
+            },
+            "Switzerland": {
+                "totalTrade": 6993461,
+                "topProduct": "Other",
+                "topProductValue": 3157850
+            },
+            "Mexico": {
+                "totalTrade": 5126260,
+                "topProduct": "Other",
+                "topProductValue": 3540501
+            },
+            "Russia": {
+                "totalTrade": 4817899,
+                "topProduct": "Other",
+                "topProductValue": 1957976
+            },
+            "Canada": {
+                "totalTrade": 4099039,
+                "topProduct": "Other",
+                "topProductValue": 1656772
+            },
+            "India": {
+                "totalTrade": 3106619,
+                "topProduct": "Other",
+                "topProductValue": 1251373
+            },
+            "Greece": {
+                "totalTrade": 3005337,
+                "topProduct": "Other",
+                "topProductValue": 1483458
+            },
+            "Australia": {
+                "totalTrade": 2664034,
+                "topProduct": "Other",
+                "topProductValue": 1154591
+            },
+            "Saudi Arabia": {
+                "totalTrade": 2600633,
+                "topProduct": "Other",
+                "topProductValue": 1412988
+            },
+            "Japan": {
+                "totalTrade": 2190788,
+                "topProduct": "Other",
+                "topProductValue": 1028723
+            },
+            "Israel": {
+                "totalTrade": 2066447,
+                "topProduct": "Other",
+                "topProductValue": 1006998
+            },
+            "Brazil": {
+                "totalTrade": 1839437,
+                "topProduct": "Other",
+                "topProductValue": 710472
+            },
+            "Singapore": {
+                "totalTrade": 1200960,
+                "topProduct": "Other",
+                "topProductValue": 412661
+            },
+            "South Korea": {
+                "totalTrade": 1187783,
+                "topProduct": "Other",
+                "topProductValue": 559618
+            },
+            "Thailand": {
+                "totalTrade": 952479,
+                "topProduct": "Other",
+                "topProductValue": 375772
+            },
+            "Malaysia": {
+                "totalTrade": 721760,
+                "topProduct": "Other",
+                "topProductValue": 338363
+            },
+            "Vietnam": {
+                "totalTrade": 517165,
+                "topProduct": "Other",
+                "topProductValue": 202509
+            },
+            "Indonesia": {
+                "totalTrade": 456522,
+                "topProduct": "Other",
+                "topProductValue": 205349
+            },
+            "Pakistan": {
+                "totalTrade": 265610,
+                "topProduct": "Other",
+                "topProductValue": 104881
+            },
+            "Iran": {
+                "totalTrade": 52100,
+                "topProduct": "Other",
+                "topProductValue": 18213
+            }
+        }
+    },
+    "Belgium": {
+        "code": "BE",
+        "coordinates": [
+            50.8503,
+            4.3517
+        ],
+        "tradeLinks": {
+            "France": {
+                "totalTrade": 173963190,
+                "topProduct": "Energy",
+                "topProductValue": 60043907
+            },
+            "Germany": {
+                "totalTrade": 153172632,
+                "topProduct": "Energy",
+                "topProductValue": 53454405
+            },
+            "Netherlands": {
+                "totalTrade": 127373262,
+                "topProduct": "Other",
+                "topProductValue": 44416204
+            },
+            "Italy": {
+                "totalTrade": 53489331,
+                "topProduct": "Other",
+                "topProductValue": 22241804
+            },
+            "United States": {
+                "totalTrade": 50300943,
+                "topProduct": "Other",
+                "topProductValue": 19936287
+            },
+            "United Kingdom": {
+                "totalTrade": 39635210,
+                "topProduct": "Other",
+                "topProductValue": 16255405
+            },
+            "Spain": {
+                "totalTrade": 22316167,
+                "topProduct": "Other",
+                "topProductValue": 9854554
+            },
+            "Poland": {
+                "totalTrade": 19614795,
+                "topProduct": "Other",
+                "topProductValue": 7893684
+            },
+            "Sweden": {
+                "totalTrade": 18175865,
+                "topProduct": "Cars",
+                "topProductValue": 7563388
+            },
+            "China": {
+                "totalTrade": 16261431,
+                "topProduct": "Other",
+                "topProductValue": 9330465
+            },
+            "India": {
+                "totalTrade": 13331842,
+                "topProduct": "Other",
+                "topProductValue": 9659638
+            },
+            "Japan": {
+                "totalTrade": 11778701,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 7157308
+            },
+            "Turkey": {
+                "totalTrade": 9654704,
+                "topProduct": "Other",
+                "topProductValue": 4913474
+            },
+            "Switzerland": {
+                "totalTrade": 9381302,
+                "topProduct": "Other",
+                "topProductValue": 4449087
+            },
+            "Canada": {
+                "totalTrade": 7032620,
+                "topProduct": "Other",
+                "topProductValue": 3299780
+            },
+            "Brazil": {
+                "totalTrade": 6638484,
+                "topProduct": "Other",
+                "topProductValue": 2293150
+            },
+            "Israel": {
+                "totalTrade": 5867637,
+                "topProduct": "Other",
+                "topProductValue": 3294609
+            },
+            "South Korea": {
+                "totalTrade": 5145852,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 1767032
+            },
+            "Russia": {
+                "totalTrade": 4767117,
+                "topProduct": "Other",
+                "topProductValue": 2267889
+            },
+            "Greece": {
+                "totalTrade": 4704214,
+                "topProduct": "Other",
+                "topProductValue": 2134174
+            },
+            "Saudi Arabia": {
+                "totalTrade": 4428327,
+                "topProduct": "Other",
+                "topProductValue": 1907236
+            },
+            "Australia": {
+                "totalTrade": 4226212,
+                "topProduct": "Other",
+                "topProductValue": 1793802
+            },
+            "Mexico": {
+                "totalTrade": 3732608,
+                "topProduct": "Other",
+                "topProductValue": 2191614
+            },
+            "Singapore": {
+                "totalTrade": 2688332,
+                "topProduct": "Other",
+                "topProductValue": 1109952
+            },
+            "Vietnam": {
+                "totalTrade": 1789869,
+                "topProduct": "Other",
+                "topProductValue": 766298
+            },
+            "Thailand": {
+                "totalTrade": 1744175,
+                "topProduct": "Other",
+                "topProductValue": 729076
+            },
+            "Malaysia": {
+                "totalTrade": 1690212,
+                "topProduct": "Other",
+                "topProductValue": 875314
+            },
+            "Indonesia": {
+                "totalTrade": 1363298,
+                "topProduct": "Other",
+                "topProductValue": 517325
+            },
+            "Pakistan": {
+                "totalTrade": 1193705,
+                "topProduct": "Other",
+                "topProductValue": 470228
+            },
+            "Iran": {
+                "totalTrade": 535728,
+                "topProduct": "Other",
+                "topProductValue": 274764
+            }
+        }
+    },
+    "Spain": {
+        "code": "SP",
+        "coordinates": [
+            40.4637,
+            -3.7492
+        ],
+        "tradeLinks": {
+            "France": {
+                "totalTrade": 126848394,
+                "topProduct": "Other",
+                "topProductValue": 44159885
+            },
+            "Germany": {
+                "totalTrade": 81657617,
+                "topProduct": "Other",
+                "topProductValue": 28080155
+            },
+            "Italy": {
+                "totalTrade": 66706894,
+                "topProduct": "Other",
+                "topProductValue": 25206771
+            },
+            "United Kingdom": {
+                "totalTrade": 48762304,
+                "topProduct": "Other",
+                "topProductValue": 17363249
+            },
+            "United States": {
+                "totalTrade": 43841140,
+                "topProduct": "Other",
+                "topProductValue": 17514850
+            },
+            "Netherlands": {
+                "totalTrade": 27621722,
+                "topProduct": "Other",
+                "topProductValue": 11887124
+            },
+            "Belgium": {
+                "totalTrade": 25880202,
+                "topProduct": "Other",
+                "topProductValue": 8155152
+            },
+            "Poland": {
+                "totalTrade": 18754271,
+                "topProduct": "Other",
+                "topProductValue": 7517937
+            },
+            "Switzerland": {
+                "totalTrade": 18602345,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 10103519
+            },
+            "China": {
+                "totalTrade": 17363786,
+                "topProduct": "Other",
+                "topProductValue": 6591829
+            },
+            "Turkey": {
+                "totalTrade": 17045297,
+                "topProduct": "Cars",
+                "topProductValue": 6395462
+            },
+            "Mexico": {
+                "totalTrade": 11498350,
+                "topProduct": "Other",
+                "topProductValue": 3703476
+            },
+            "Japan": {
+                "totalTrade": 10308993,
+                "topProduct": "Other",
+                "topProductValue": 3393427
+            },
+            "Brazil": {
+                "totalTrade": 7575540,
+                "topProduct": "Other",
+                "topProductValue": 2851093
+            },
+            "Sweden": {
+                "totalTrade": 7548147,
+                "topProduct": "Other",
+                "topProductValue": 2591526
+            },
+            "Saudi Arabia": {
+                "totalTrade": 6200297,
+                "topProduct": "Other",
+                "topProductValue": 3971028
+            },
+            "Greece": {
+                "totalTrade": 6152828,
+                "topProduct": "Other",
+                "topProductValue": 2608166
+            },
+            "India": {
+                "totalTrade": 5658114,
+                "topProduct": "Other",
+                "topProductValue": 2468948
+            },
+            "Canada": {
+                "totalTrade": 5484932,
+                "topProduct": "Other",
+                "topProductValue": 1881042
+            },
+            "South Korea": {
+                "totalTrade": 4486819,
+                "topProduct": "Other",
+                "topProductValue": 2150849
+            },
+            "Israel": {
+                "totalTrade": 4394774,
+                "topProduct": "Other",
+                "topProductValue": 1789032
+            },
+            "Australia": {
+                "totalTrade": 4191736,
+                "topProduct": "Other",
+                "topProductValue": 1499246
+            },
+            "Singapore": {
+                "totalTrade": 3101080,
+                "topProduct": "Other",
+                "topProductValue": 1092960
+            },
+            "Russia": {
+                "totalTrade": 2271455,
+                "topProduct": "Other",
+                "topProductValue": 1084295
+            },
+            "Thailand": {
+                "totalTrade": 1501450,
+                "topProduct": "Other",
+                "topProductValue": 618260
+            },
+            "Malaysia": {
+                "totalTrade": 1316390,
+                "topProduct": "Other",
+                "topProductValue": 713392
+            },
+            "Vietnam": {
+                "totalTrade": 1156925,
+                "topProduct": "Other",
+                "topProductValue": 480611
+            },
+            "Indonesia": {
+                "totalTrade": 1156678,
+                "topProduct": "Other",
+                "topProductValue": 508098
+            },
+            "Pakistan": {
+                "totalTrade": 530225,
+                "topProduct": "Other",
+                "topProductValue": 242865
+            },
+            "Iran": {
+                "totalTrade": 525640,
+                "topProduct": "Other",
+                "topProductValue": 253876
+            }
+        }
+    },
+    "Indonesia": {
+        "code": "IN",
+        "coordinates": [
+            -0.7893,
+            113.9213
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 137521593,
+                "topProduct": "Other",
+                "topProductValue": 71780798
+            },
+            "United States": {
+                "totalTrade": 60028153,
+                "topProduct": "Other",
+                "topProductValue": 26619936
+            },
+            "Japan": {
+                "totalTrade": 50187801,
+                "topProduct": "Energy",
+                "topProductValue": 18562243
+            },
+            "India": {
+                "totalTrade": 50080200,
+                "topProduct": "Energy",
+                "topProductValue": 34378870
+            },
+            "Singapore": {
+                "totalTrade": 31166443,
+                "topProduct": "Energy",
+                "topProductValue": 10903336
+            },
+            "Malaysia": {
+                "totalTrade": 29200292,
+                "topProduct": "Energy",
+                "topProductValue": 15734333
+            },
+            "South Korea": {
+                "totalTrade": 25311555,
+                "topProduct": "Energy",
+                "topProductValue": 12390135
+            },
+            "Thailand": {
+                "totalTrade": 17395948,
+                "topProduct": "Energy",
+                "topProductValue": 7140481
+            },
+            "Vietnam": {
+                "totalTrade": 16716502,
+                "topProduct": "Energy",
+                "topProductValue": 6803986
+            },
+            "Netherlands": {
+                "totalTrade": 9045895,
+                "topProduct": "Energy",
+                "topProductValue": 3832821
+            },
+            "Germany": {
+                "totalTrade": 8082701,
+                "topProduct": "Other",
+                "topProductValue": 3693850
+            },
+            "Australia": {
+                "totalTrade": 7909398,
+                "topProduct": "Other",
+                "topProductValue": 4086627
+            },
+            "Pakistan": {
+                "totalTrade": 7750774,
+                "topProduct": "Energy",
+                "topProductValue": 6308299
+            },
+            "Italy": {
+                "totalTrade": 7139679,
+                "topProduct": "Energy",
+                "topProductValue": 4121088
+            },
+            "United Kingdom": {
+                "totalTrade": 5981878,
+                "topProduct": "Other",
+                "topProductValue": 3207673
+            },
+            "Spain": {
+                "totalTrade": 5831002,
+                "topProduct": "Energy",
+                "topProductValue": 2196687
+            },
+            "Saudi Arabia": {
+                "totalTrade": 5756310,
+                "topProduct": "Other",
+                "topProductValue": 1927650
+            },
+            "Switzerland": {
+                "totalTrade": 4915757,
+                "topProduct": "Metals",
+                "topProductValue": 4014240
+            },
+            "Turkey": {
+                "totalTrade": 4637748,
+                "topProduct": "Energy",
+                "topProductValue": 1589307
+            },
+            "Mexico": {
+                "totalTrade": 4071862,
+                "topProduct": "Other",
+                "topProductValue": 1201599
+            },
+            "Canada": {
+                "totalTrade": 3846170,
+                "topProduct": "Other",
+                "topProductValue": 1639591
+            },
+            "Brazil": {
+                "totalTrade": 3456555,
+                "topProduct": "Energy",
+                "topProductValue": 1147801
+            },
+            "Belgium": {
+                "totalTrade": 2938987,
+                "topProduct": "Other",
+                "topProductValue": 1183889
+            },
+            "France": {
+                "totalTrade": 2846809,
+                "topProduct": "Other",
+                "topProductValue": 1541470
+            },
+            "Russia": {
+                "totalTrade": 2299366,
+                "topProduct": "Energy",
+                "topProductValue": 1622103
+            },
+            "Poland": {
+                "totalTrade": 2252088,
+                "topProduct": "Other",
+                "topProductValue": 866366
+            },
+            "Sweden": {
+                "totalTrade": 728818,
+                "topProduct": "Energy",
+                "topProductValue": 303816
+            },
+            "Greece": {
+                "totalTrade": 710267,
+                "topProduct": "Energy",
+                "topProductValue": 346125
+            },
+            "Iran": {
+                "totalTrade": 462148,
+                "topProduct": "Other",
+                "topProductValue": 244555
+            },
+            "Israel": {
+                "totalTrade": 396438,
+                "topProduct": "Energy",
+                "topProductValue": 129194
+            }
+        }
+    },
+    "Saudi Arabia": {
+        "code": "SA",
+        "coordinates": [
+            23.8859,
+            45.0792
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 140162954,
+                "topProduct": "Energy",
+                "topProductValue": 119571863
+            },
+            "India": {
+                "totalTrade": 81101607,
+                "topProduct": "Energy",
+                "topProductValue": 59430572
+            },
+            "Japan": {
+                "totalTrade": 77006047,
+                "topProduct": "Energy",
+                "topProductValue": 74779869
+            },
+            "South Korea": {
+                "totalTrade": 42858047,
+                "topProduct": "Energy",
+                "topProductValue": 39735487
+            },
+            "United States": {
+                "totalTrade": 41233790,
+                "topProduct": "Energy",
+                "topProductValue": 35887835
+            },
+            "Malaysia": {
+                "totalTrade": 18420216,
+                "topProduct": "Energy",
+                "topProductValue": 15762061
+            },
+            "Singapore": {
+                "totalTrade": 15330835,
+                "topProduct": "Energy",
+                "topProductValue": 9801674
+            },
+            "Italy": {
+                "totalTrade": 14554782,
+                "topProduct": "Energy",
+                "topProductValue": 12684650
+            },
+            "Thailand": {
+                "totalTrade": 13168136,
+                "topProduct": "Energy",
+                "topProductValue": 10246460
+            },
+            "France": {
+                "totalTrade": 12986133,
+                "topProduct": "Energy",
+                "topProductValue": 12360795
+            },
+            "Netherlands": {
+                "totalTrade": 10860473,
+                "topProduct": "Energy",
+                "topProductValue": 9202815
+            },
+            "Indonesia": {
+                "totalTrade": 9598552,
+                "topProduct": "Energy",
+                "topProductValue": 7310197
+            },
+            "Pakistan": {
+                "totalTrade": 9447837,
+                "topProduct": "Energy",
+                "topProductValue": 7041873
+            },
+            "Brazil": {
+                "totalTrade": 9180464,
+                "topProduct": "Energy",
+                "topProductValue": 6654567
+            },
+            "Spain": {
+                "totalTrade": 9159209,
+                "topProduct": "Energy",
+                "topProductValue": 7344418
+            },
+            "Turkey": {
+                "totalTrade": 7658416,
+                "topProduct": "Other",
+                "topProductValue": 5380509
+            },
+            "United Kingdom": {
+                "totalTrade": 7339908,
+                "topProduct": "Energy",
+                "topProductValue": 5671289
+            },
+            "Germany": {
+                "totalTrade": 6362459,
+                "topProduct": "Energy",
+                "topProductValue": 3443252
+            },
+            "Poland": {
+                "totalTrade": 6279843,
+                "topProduct": "Energy",
+                "topProductValue": 5741373
+            },
+            "Canada": {
+                "totalTrade": 4547551,
+                "topProduct": "Energy",
+                "topProductValue": 4330413
+            },
+            "Belgium": {
+                "totalTrade": 4311875,
+                "topProduct": "Other",
+                "topProductValue": 2813806
+            },
+            "Greece": {
+                "totalTrade": 3244320,
+                "topProduct": "Energy",
+                "topProductValue": 2641323
+            },
+            "Vietnam": {
+                "totalTrade": 2437458,
+                "topProduct": "Other",
+                "topProductValue": 2164269
+            },
+            "Australia": {
+                "totalTrade": 2012490,
+                "topProduct": "Other",
+                "topProductValue": 1446988
+            },
+            "Switzerland": {
+                "totalTrade": 1979801,
+                "topProduct": "Metals",
+                "topProductValue": 1293187
+            },
+            "Sweden": {
+                "totalTrade": 464687,
+                "topProduct": "Energy",
+                "topProductValue": 302059
+            },
+            "Mexico": {
+                "totalTrade": 116665,
+                "topProduct": "Other",
+                "topProductValue": 83014
+            },
+            "Russia": {
+                "totalTrade": 63000,
+                "topProduct": "Other",
+                "topProductValue": 21725
+            }
+        }
+    },
+    "Brazil": {
+        "code": "BR",
+        "coordinates": [
+            -14.235,
+            -51.9253
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 194612408,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 75354266
+            },
+            "United States": {
+                "totalTrade": 70359969,
+                "topProduct": "Other",
+                "topProductValue": 33618208
+            },
+            "Netherlands": {
+                "totalTrade": 24107837,
+                "topProduct": "Energy",
+                "topProductValue": 9265653
+            },
+            "Spain": {
+                "totalTrade": 17815215,
+                "topProduct": "Energy",
+                "topProductValue": 8417098
+            },
+            "Singapore": {
+                "totalTrade": 15856410,
+                "topProduct": "Energy",
+                "topProductValue": 13350673
+            },
+            "Mexico": {
+                "totalTrade": 15613087,
+                "topProduct": "Other",
+                "topProductValue": 4204824
+            },
+            "Germany": {
+                "totalTrade": 13852233,
+                "topProduct": "Other",
+                "topProductValue": 5324362
+            },
+            "Japan": {
+                "totalTrade": 13572239,
+                "topProduct": "Other",
+                "topProductValue": 4148462
+            },
+            "South Korea": {
+                "totalTrade": 12527879,
+                "topProduct": "Energy",
+                "topProductValue": 4149257
+            },
+            "Canada": {
+                "totalTrade": 11599153,
+                "topProduct": "Metals",
+                "topProductValue": 5331342
+            },
+            "India": {
+                "totalTrade": 11268076,
+                "topProduct": "Energy",
+                "topProductValue": 6301387
+            },
+            "Italy": {
+                "totalTrade": 9982852,
+                "topProduct": "Other",
+                "topProductValue": 4598311
+            },
+            "United Kingdom": {
+                "totalTrade": 9274720,
+                "topProduct": "Other",
+                "topProductValue": 4113440
+            },
+            "Saudi Arabia": {
+                "totalTrade": 8410117,
+                "topProduct": "Other",
+                "topProductValue": 2655820
+            },
+            "Malaysia": {
+                "totalTrade": 8227638,
+                "topProduct": "Metals",
+                "topProductValue": 4578845
+            },
+            "Vietnam": {
+                "totalTrade": 7801077,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 3079495
+            },
+            "Indonesia": {
+                "totalTrade": 7510934,
+                "topProduct": "Energy",
+                "topProductValue": 3700073
+            },
+            "Thailand": {
+                "totalTrade": 7485954,
+                "topProduct": "Energy",
+                "topProductValue": 3445972
+            },
+            "Belgium": {
+                "totalTrade": 7371297,
+                "topProduct": "Other",
+                "topProductValue": 5184668
+            },
+            "Turkey": {
+                "totalTrade": 7051431,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 2254485
+            },
+            "France": {
+                "totalTrade": 6757818,
+                "topProduct": "Energy",
+                "topProductValue": 2895143
+            },
+            "Iran": {
+                "totalTrade": 6657507,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 5103071
+            },
+            "Poland": {
+                "totalTrade": 3463659,
+                "topProduct": "Energy",
+                "topProductValue": 1257265
+            },
+            "Russia": {
+                "totalTrade": 3316674,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 1802784
+            },
+            "Switzerland": {
+                "totalTrade": 3269761,
+                "topProduct": "Metals",
+                "topProductValue": 1632302
+            },
+            "Pakistan": {
+                "totalTrade": 2752420,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 1555946
+            },
+            "Israel": {
+                "totalTrade": 2626472,
+                "topProduct": "Energy",
+                "topProductValue": 1328374
+            },
+            "Sweden": {
+                "totalTrade": 1668893,
+                "topProduct": "Metals",
+                "topProductValue": 780925
+            },
+            "Australia": {
+                "totalTrade": 1576458,
+                "topProduct": "Other",
+                "topProductValue": 1061338
+            },
+            "Greece": {
+                "totalTrade": 795608,
+                "topProduct": "Other",
+                "topProductValue": 382601
+            }
+        }
+    },
+    "Germany": {
+        "code": "GE",
+        "coordinates": [
+            51.1657,
+            10.4515
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 318578625,
+                "topProduct": "Other",
+                "topProductValue": 114140646
+            },
+            "France": {
+                "totalTrade": 241339491,
+                "topProduct": "Other",
+                "topProductValue": 88212609
+            },
+            "Netherlands": {
+                "totalTrade": 212396541,
+                "topProduct": "Other",
+                "topProductValue": 81505040
+            },
+            "China": {
+                "totalTrade": 210491350,
+                "topProduct": "Other",
+                "topProductValue": 66957848
+            },
+            "Italy": {
+                "totalTrade": 184738273,
+                "topProduct": "Other",
+                "topProductValue": 66784026
+            },
+            "Poland": {
+                "totalTrade": 181439142,
+                "topProduct": "Other",
+                "topProductValue": 59511930
+            },
+            "United Kingdom": {
+                "totalTrade": 146549505,
+                "topProduct": "Other",
+                "topProductValue": 48617431
+            },
+            "Switzerland": {
+                "totalTrade": 145208469,
+                "topProduct": "Other",
+                "topProductValue": 49950713
+            },
+            "Belgium": {
+                "totalTrade": 124281978,
+                "topProduct": "Other",
+                "topProductValue": 44840961
+            },
+            "Spain": {
+                "totalTrade": 106143777,
+                "topProduct": "Other",
+                "topProductValue": 35909797
+            },
+            "Sweden": {
+                "totalTrade": 60579367,
+                "topProduct": "Other",
+                "topProductValue": 19182251
+            },
+            "Turkey": {
+                "totalTrade": 58478679,
+                "topProduct": "Other",
+                "topProductValue": 20395145
+            },
+            "South Korea": {
+                "totalTrade": 44643216,
+                "topProduct": "Cars",
+                "topProductValue": 15700803
+            },
+            "Japan": {
+                "totalTrade": 42907311,
+                "topProduct": "Other",
+                "topProductValue": 15332342
+            },
+            "Mexico": {
+                "totalTrade": 37357979,
+                "topProduct": "Other",
+                "topProductValue": 12440400
+            },
+            "India": {
+                "totalTrade": 33463965,
+                "topProduct": "Other",
+                "topProductValue": 15196545
+            },
+            "Canada": {
+                "totalTrade": 28494195,
+                "topProduct": "Other",
+                "topProductValue": 8982827
+            },
+            "Brazil": {
+                "totalTrade": 27119799,
+                "topProduct": "Other",
+                "topProductValue": 10431385
+            },
+            "Russia": {
+                "totalTrade": 25311599,
+                "topProduct": "Other",
+                "topProductValue": 9876885
+            },
+            "Australia": {
+                "totalTrade": 25197522,
+                "topProduct": "Other",
+                "topProductValue": 9381555
+            },
+            "Greece": {
+                "totalTrade": 18633800,
+                "topProduct": "Other",
+                "topProductValue": 6283711
+            },
+            "Saudi Arabia": {
+                "totalTrade": 17268566,
+                "topProduct": "Other",
+                "topProductValue": 7519340
+            },
+            "Singapore": {
+                "totalTrade": 15409937,
+                "topProduct": "Other",
+                "topProductValue": 5706142
+            },
+            "Malaysia": {
+                "totalTrade": 13444548,
+                "topProduct": "Other",
+                "topProductValue": 4425948
+            },
+            "Israel": {
+                "totalTrade": 12189304,
+                "topProduct": "Other",
+                "topProductValue": 4763403
+            },
+            "Thailand": {
+                "totalTrade": 11454740,
+                "topProduct": "Other",
+                "topProductValue": 3584505
+            },
+            "Indonesia": {
+                "totalTrade": 7648575,
+                "topProduct": "Other",
+                "topProductValue": 2830124
+            },
+            "Vietnam": {
+                "totalTrade": 7441417,
+                "topProduct": "Other",
+                "topProductValue": 3685684
+            },
+            "Iran": {
+                "totalTrade": 3077073,
+                "topProduct": "Other",
+                "topProductValue": 1211577
+            },
+            "Pakistan": {
+                "totalTrade": 2321624,
+                "topProduct": "Other",
+                "topProductValue": 1044442
+            }
+        }
+    },
+    "Singapore": {
+        "code": "SI",
+        "coordinates": [
+            1.3521,
+            103.8198
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 78459799,
+                "topProduct": "Electronics",
+                "topProductValue": 31906851
+            },
+            "Malaysia": {
+                "totalTrade": 64519986,
+                "topProduct": "Energy",
+                "topProductValue": 22475943
+            },
+            "United States": {
+                "totalTrade": 59576961,
+                "topProduct": "Other",
+                "topProductValue": 21390908
+            },
+            "Indonesia": {
+                "totalTrade": 39722445,
+                "topProduct": "Energy",
+                "topProductValue": 21700247
+            },
+            "South Korea": {
+                "totalTrade": 30786432,
+                "topProduct": "Electronics",
+                "topProductValue": 16853411
+            },
+            "India": {
+                "totalTrade": 29006606,
+                "topProduct": "Other",
+                "topProductValue": 10001661
+            },
+            "Australia": {
+                "totalTrade": 26902057,
+                "topProduct": "Energy",
+                "topProductValue": 19582141
+            },
+            "Vietnam": {
+                "totalTrade": 23857941,
+                "topProduct": "Electronics",
+                "topProductValue": 8982896
+            },
+            "Japan": {
+                "totalTrade": 21370622,
+                "topProduct": "Electronics",
+                "topProductValue": 6697836
+            },
+            "Thailand": {
+                "totalTrade": 15929957,
+                "topProduct": "Other",
+                "topProductValue": 3844999
+            },
+            "Germany": {
+                "totalTrade": 13984980,
+                "topProduct": "Other",
+                "topProductValue": 7727744
+            },
+            "Netherlands": {
+                "totalTrade": 11326385,
+                "topProduct": "Other",
+                "topProductValue": 3906022
+            },
+            "Switzerland": {
+                "totalTrade": 8539364,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 4657986
+            },
+            "Belgium": {
+                "totalTrade": 6768394,
+                "topProduct": "Chemicals",
+                "topProductValue": 2437765
+            },
+            "United Kingdom": {
+                "totalTrade": 5267092,
+                "topProduct": "Other",
+                "topProductValue": 1576298
+            },
+            "France": {
+                "totalTrade": 4708904,
+                "topProduct": "Other",
+                "topProductValue": 1804544
+            },
+            "Mexico": {
+                "totalTrade": 4362387,
+                "topProduct": "Electronics",
+                "topProductValue": 1373302
+            },
+            "Saudi Arabia": {
+                "totalTrade": 3179198,
+                "topProduct": "Other",
+                "topProductValue": 1687160
+            },
+            "Israel": {
+                "totalTrade": 2727023,
+                "topProduct": "Other",
+                "topProductValue": 906590
+            },
+            "Brazil": {
+                "totalTrade": 2356737,
+                "topProduct": "Other",
+                "topProductValue": 1078788
+            },
+            "Pakistan": {
+                "totalTrade": 2190754,
+                "topProduct": "Energy",
+                "topProductValue": 1384216
+            },
+            "Canada": {
+                "totalTrade": 2173950,
+                "topProduct": "Other",
+                "topProductValue": 1016568
+            },
+            "Italy": {
+                "totalTrade": 1739283,
+                "topProduct": "Other",
+                "topProductValue": 521978
+            },
+            "Turkey": {
+                "totalTrade": 1390004,
+                "topProduct": "Other",
+                "topProductValue": 608173
+            },
+            "Spain": {
+                "totalTrade": 1156192,
+                "topProduct": "Other",
+                "topProductValue": 485832
+            },
+            "Poland": {
+                "totalTrade": 1006039,
+                "topProduct": "Other",
+                "topProductValue": 483295
+            },
+            "Iran": {
+                "totalTrade": 465175,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 219607
+            },
+            "Russia": {
+                "totalTrade": 303318,
+                "topProduct": "Other",
+                "topProductValue": 83900
+            },
+            "Sweden": {
+                "totalTrade": 260848,
+                "topProduct": "Other",
+                "topProductValue": 79385
+            },
+            "Greece": {
+                "totalTrade": 195010,
+                "topProduct": "Other",
+                "topProductValue": 74683
+            }
+        }
+    },
+    "Sweden": {
+        "code": "SW",
+        "coordinates": [
+            60.1282,
+            18.6435
+        ],
+        "tradeLinks": {
+            "Germany": {
+                "totalTrade": 39150520,
+                "topProduct": "Other",
+                "topProductValue": 14452543
+            },
+            "United States": {
+                "totalTrade": 36294293,
+                "topProduct": "Other",
+                "topProductValue": 12814392
+            },
+            "United Kingdom": {
+                "totalTrade": 20494490,
+                "topProduct": "Other",
+                "topProductValue": 7637805
+            },
+            "Netherlands": {
+                "totalTrade": 20474727,
+                "topProduct": "Other",
+                "topProductValue": 7402790
+            },
+            "France": {
+                "totalTrade": 17659404,
+                "topProduct": "Other",
+                "topProductValue": 6712461
+            },
+            "Belgium": {
+                "totalTrade": 15980324,
+                "topProduct": "Cars",
+                "topProductValue": 4811361
+            },
+            "China": {
+                "totalTrade": 15725679,
+                "topProduct": "Other",
+                "topProductValue": 5282997
+            },
+            "Poland": {
+                "totalTrade": 15189322,
+                "topProduct": "Other",
+                "topProductValue": 7429145
+            },
+            "Italy": {
+                "totalTrade": 13223816,
+                "topProduct": "Other",
+                "topProductValue": 6268433
+            },
+            "Spain": {
+                "totalTrade": 9075589,
+                "topProduct": "Other",
+                "topProductValue": 3576422
+            },
+            "Japan": {
+                "totalTrade": 5518378,
+                "topProduct": "Other",
+                "topProductValue": 1857883
+            },
+            "Canada": {
+                "totalTrade": 4907113,
+                "topProduct": "Other",
+                "topProductValue": 1594027
+            },
+            "Turkey": {
+                "totalTrade": 4730640,
+                "topProduct": "Other",
+                "topProductValue": 1950386
+            },
+            "Brazil": {
+                "totalTrade": 4151582,
+                "topProduct": "Other",
+                "topProductValue": 1204162
+            },
+            "Australia": {
+                "totalTrade": 3809089,
+                "topProduct": "Other",
+                "topProductValue": 1224468
+            },
+            "India": {
+                "totalTrade": 3801361,
+                "topProduct": "Other",
+                "topProductValue": 1225201
+            },
+            "South Korea": {
+                "totalTrade": 3770592,
+                "topProduct": "Other",
+                "topProductValue": 1292661
+            },
+            "Saudi Arabia": {
+                "totalTrade": 3753699,
+                "topProduct": "Metals",
+                "topProductValue": 1673942
+            },
+            "Switzerland": {
+                "totalTrade": 3741840,
+                "topProduct": "Other",
+                "topProductValue": 1160203
+            },
+            "Singapore": {
+                "totalTrade": 2750723,
+                "topProduct": "Other",
+                "topProductValue": 816879
+            },
+            "Mexico": {
+                "totalTrade": 2018114,
+                "topProduct": "Other",
+                "topProductValue": 624959
+            },
+            "Russia": {
+                "totalTrade": 1896182,
+                "topProduct": "Chemicals",
+                "topProductValue": 648591
+            },
+            "Thailand": {
+                "totalTrade": 1591398,
+                "topProduct": "Other",
+                "topProductValue": 540396
+            },
+            "Israel": {
+                "totalTrade": 1466554,
+                "topProduct": "Other",
+                "topProductValue": 486302
+            },
+            "Indonesia": {
+                "totalTrade": 1383107,
+                "topProduct": "Other",
+                "topProductValue": 496725
+            },
+            "Greece": {
+                "totalTrade": 1231891,
+                "topProduct": "Other",
+                "topProductValue": 457625
+            },
+            "Malaysia": {
+                "totalTrade": 1064104,
+                "topProduct": "Other",
+                "topProductValue": 488336
+            },
+            "Vietnam": {
+                "totalTrade": 567737,
+                "topProduct": "Other",
+                "topProductValue": 244427
+            },
+            "Pakistan": {
+                "totalTrade": 492915,
+                "topProduct": "Other",
+                "topProductValue": 306890
+            },
+            "Iran": {
+                "totalTrade": 45016,
+                "topProduct": "Other",
+                "topProductValue": 20154
+            }
+        }
+    },
+    "United States": {
+        "code": "UN",
+        "coordinates": [
+            37.0902,
+            -95.7129
+        ],
+        "tradeLinks": {
+            "Canada": {
+                "totalTrade": 607993870,
+                "topProduct": "Other",
+                "topProductValue": 205824347
+            },
+            "Mexico": {
+                "totalTrade": 593381461,
+                "topProduct": "Other",
+                "topProductValue": 167601705
+            },
+            "China": {
+                "totalTrade": 296863912,
+                "topProduct": "Other",
+                "topProductValue": 99297354
+            },
+            "Japan": {
+                "totalTrade": 156781447,
+                "topProduct": "Other",
+                "topProductValue": 71098407
+            },
+            "Germany": {
+                "totalTrade": 156395551,
+                "topProduct": "Other",
+                "topProductValue": 60762534
+            },
+            "United Kingdom": {
+                "totalTrade": 141432013,
+                "topProduct": "Energy",
+                "topProductValue": 47038899
+            },
+            "Netherlands": {
+                "totalTrade": 140587425,
+                "topProduct": "Other",
+                "topProductValue": 50677212
+            },
+            "South Korea": {
+                "totalTrade": 139190482,
+                "topProduct": "Other",
+                "topProductValue": 46443655
+            },
+            "India": {
+                "totalTrade": 92342968,
+                "topProduct": "Energy",
+                "topProductValue": 35777952
+            },
+            "Brazil": {
+                "totalTrade": 90739715,
+                "topProduct": "Energy",
+                "topProductValue": 30569589
+            },
+            "Singapore": {
+                "totalTrade": 86843802,
+                "topProduct": "Other",
+                "topProductValue": 26955544
+            },
+            "France": {
+                "totalTrade": 79975146,
+                "topProduct": "Energy",
+                "topProductValue": 31281903
+            },
+            "Switzerland": {
+                "totalTrade": 69762301,
+                "topProduct": "Metals",
+                "topProductValue": 39012098
+            },
+            "Belgium": {
+                "totalTrade": 64720111,
+                "topProduct": "Other",
+                "topProductValue": 28557856
+            },
+            "Australia": {
+                "totalTrade": 62114295,
+                "topProduct": "Other",
+                "topProductValue": 25854410
+            },
+            "Spain": {
+                "totalTrade": 59318215,
+                "topProduct": "Energy",
+                "topProductValue": 23712999
+            },
+            "Italy": {
+                "totalTrade": 52124049,
+                "topProduct": "Other",
+                "topProductValue": 20531265
+            },
+            "Malaysia": {
+                "totalTrade": 39029148,
+                "topProduct": "Other",
+                "topProductValue": 14834080
+            },
+            "Thailand": {
+                "totalTrade": 32395410,
+                "topProduct": "Other",
+                "topProductValue": 11077602
+            },
+            "Turkey": {
+                "totalTrade": 30312550,
+                "topProduct": "Other",
+                "topProductValue": 15683262
+            },
+            "Saudi Arabia": {
+                "totalTrade": 26228303,
+                "topProduct": "Other",
+                "topProductValue": 10554075
+            },
+            "Indonesia": {
+                "totalTrade": 21812744,
+                "topProduct": "Other",
+                "topProductValue": 9815663
+            },
+            "Vietnam": {
+                "totalTrade": 21626710,
+                "topProduct": "Other",
+                "topProductValue": 8995261
+            },
+            "Israel": {
+                "totalTrade": 21117737,
+                "topProduct": "Other",
+                "topProductValue": 10762755
+            },
+            "Poland": {
+                "totalTrade": 20976713,
+                "topProduct": "Energy",
+                "topProductValue": 7173425
+            },
+            "Sweden": {
+                "totalTrade": 14703559,
+                "topProduct": "Other",
+                "topProductValue": 6123520
+            },
+            "Pakistan": {
+                "totalTrade": 5565619,
+                "topProduct": "Textiles",
+                "topProductValue": 1891440
+            },
+            "Greece": {
+                "totalTrade": 3706521,
+                "topProduct": "Energy",
+                "topProductValue": 1523120
+            },
+            "Russia": {
+                "totalTrade": 2220521,
+                "topProduct": "Other",
+                "topProductValue": 948152
+            },
+            "Iran": {
+                "totalTrade": 156431,
+                "topProduct": "Other",
+                "topProductValue": 129812
+            }
+        }
+    },
+    "South Korea": {
+        "code": "SO",
+        "coordinates": [
+            35.9078,
+            127.7669
+        ],
+        "tradeLinks": {
+            "China": {
+                "totalTrade": 314770183,
+                "topProduct": "Electronics",
+                "topProductValue": 134479400
+            },
+            "United States": {
+                "totalTrade": 230622801,
+                "topProduct": "Cars",
+                "topProductValue": 74154211
+            },
+            "Vietnam": {
+                "totalTrade": 61240728,
+                "topProduct": "Other",
+                "topProductValue": 22620381
+            },
+            "Japan": {
+                "totalTrade": 60272180,
+                "topProduct": "Other",
+                "topProductValue": 18079250
+            },
+            "Singapore": {
+                "totalTrade": 48097405,
+                "topProduct": "Electronics",
+                "topProductValue": 26361040
+            },
+            "India": {
+                "totalTrade": 40659518,
+                "topProduct": "Other",
+                "topProductValue": 13864205
+            },
+            "Australia": {
+                "totalTrade": 36887969,
+                "topProduct": "Energy",
+                "topProductValue": 21903981
+            },
+            "Mexico": {
+                "totalTrade": 30077737,
+                "topProduct": "Machinery",
+                "topProductValue": 6531956
+            },
+            "Germany": {
+                "totalTrade": 25161947,
+                "topProduct": "Other",
+                "topProductValue": 7967272
+            },
+            "Malaysia": {
+                "totalTrade": 24247620,
+                "topProduct": "Energy",
+                "topProductValue": 8474618
+            },
+            "Indonesia": {
+                "totalTrade": 21607433,
+                "topProduct": "Other",
+                "topProductValue": 5943489
+            },
+            "Canada": {
+                "totalTrade": 19137580,
+                "topProduct": "Cars",
+                "topProductValue": 8810443
+            },
+            "Turkey": {
+                "totalTrade": 18075911,
+                "topProduct": "Other",
+                "topProductValue": 5873090
+            },
+            "Thailand": {
+                "totalTrade": 17873498,
+                "topProduct": "Other",
+                "topProductValue": 5401504
+            },
+            "France": {
+                "totalTrade": 16196628,
+                "topProduct": "Other",
+                "topProductValue": 5930592
+            },
+            "United Kingdom": {
+                "totalTrade": 16081390,
+                "topProduct": "Cars",
+                "topProductValue": 5660148
+            },
+            "Netherlands": {
+                "totalTrade": 13479352,
+                "topProduct": "Other",
+                "topProductValue": 4052257
+            },
+            "Italy": {
+                "totalTrade": 12534572,
+                "topProduct": "Other",
+                "topProductValue": 4295693
+            },
+            "Saudi Arabia": {
+                "totalTrade": 10759497,
+                "topProduct": "Cars",
+                "topProductValue": 3810919
+            },
+            "Brazil": {
+                "totalTrade": 10503754,
+                "topProduct": "Other",
+                "topProductValue": 2731267
+            },
+            "Poland": {
+                "totalTrade": 8335992,
+                "topProduct": "Metals",
+                "topProductValue": 2503095
+            },
+            "Belgium": {
+                "totalTrade": 8243537,
+                "topProduct": "Other",
+                "topProductValue": 3768254
+            },
+            "Spain": {
+                "totalTrade": 7807570,
+                "topProduct": "Cars",
+                "topProductValue": 2674379
+            },
+            "Russia": {
+                "totalTrade": 6327943,
+                "topProduct": "Other",
+                "topProductValue": 1972109
+            },
+            "Switzerland": {
+                "totalTrade": 4841494,
+                "topProduct": "Other",
+                "topProductValue": 2968592
+            },
+            "Israel": {
+                "totalTrade": 4518035,
+                "topProduct": "Cars",
+                "topProductValue": 2461434
+            },
+            "Sweden": {
+                "totalTrade": 3067861,
+                "topProduct": "Cars",
+                "topProductValue": 1330057
+            },
+            "Pakistan": {
+                "totalTrade": 2120365,
+                "topProduct": "Other",
+                "topProductValue": 727847
+            },
+            "Greece": {
+                "totalTrade": 1729471,
+                "topProduct": "Other",
+                "topProductValue": 1003572
+            },
+            "Iran": {
+                "totalTrade": 384534,
+                "topProduct": "Other",
+                "topProductValue": 154186
+            }
+        }
+    },
+    "United Kingdom": {
+        "code": "UN",
+        "coordinates": [
+            55.3781,
+            -3.436
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 127880660,
+                "topProduct": "Other",
+                "topProductValue": 49702414
+            },
+            "Netherlands": {
+                "totalTrade": 79992784,
+                "topProduct": "Energy",
+                "topProductValue": 34803558
+            },
+            "Germany": {
+                "totalTrade": 79825213,
+                "topProduct": "Other",
+                "topProductValue": 28773072
+            },
+            "China": {
+                "totalTrade": 69731584,
+                "topProduct": "Metals",
+                "topProductValue": 37131786
+            },
+            "France": {
+                "totalTrade": 57937660,
+                "topProduct": "Other",
+                "topProductValue": 23603650
+            },
+            "Belgium": {
+                "totalTrade": 41721047,
+                "topProduct": "Other",
+                "topProductValue": 12050638
+            },
+            "Spain": {
+                "totalTrade": 24126874,
+                "topProduct": "Other",
+                "topProductValue": 6490607
+            },
+            "Italy": {
+                "totalTrade": 19358054,
+                "topProduct": "Other",
+                "topProductValue": 6330744
+            },
+            "Switzerland": {
+                "totalTrade": 16875104,
+                "topProduct": "Metals",
+                "topProductValue": 7210706
+            },
+            "Turkey": {
+                "totalTrade": 16131587,
+                "topProduct": "Machinery",
+                "topProductValue": 4609678
+            },
+            "Poland": {
+                "totalTrade": 15336139,
+                "topProduct": "Other",
+                "topProductValue": 4583583
+            },
+            "Canada": {
+                "totalTrade": 14821672,
+                "topProduct": "Other",
+                "topProductValue": 4577668
+            },
+            "Japan": {
+                "totalTrade": 13998598,
+                "topProduct": "Other",
+                "topProductValue": 6146609
+            },
+            "Singapore": {
+                "totalTrade": 13736305,
+                "topProduct": "Machinery",
+                "topProductValue": 5235736
+            },
+            "India": {
+                "totalTrade": 13510104,
+                "topProduct": "Other",
+                "topProductValue": 6161153
+            },
+            "Sweden": {
+                "totalTrade": 13194592,
+                "topProduct": "Energy",
+                "topProductValue": 3959862
+            },
+            "South Korea": {
+                "totalTrade": 11906505,
+                "topProduct": "Other",
+                "topProductValue": 4387989
+            },
+            "Australia": {
+                "totalTrade": 11163405,
+                "topProduct": "Other",
+                "topProductValue": 4615990
+            },
+            "Saudi Arabia": {
+                "totalTrade": 9786202,
+                "topProduct": "Machinery",
+                "topProductValue": 3255178
+            },
+            "Brazil": {
+                "totalTrade": 6516903,
+                "topProduct": "Other",
+                "topProductValue": 2396134
+            },
+            "Thailand": {
+                "totalTrade": 4869332,
+                "topProduct": "Machinery",
+                "topProductValue": 1407541
+            },
+            "Israel": {
+                "totalTrade": 4296167,
+                "topProduct": "Other",
+                "topProductValue": 1500075
+            },
+            "Malaysia": {
+                "totalTrade": 4242694,
+                "topProduct": "Other",
+                "topProductValue": 1404383
+            },
+            "Mexico": {
+                "totalTrade": 3651671,
+                "topProduct": "Other",
+                "topProductValue": 1403134
+            },
+            "Indonesia": {
+                "totalTrade": 2085009,
+                "topProduct": "Other",
+                "topProductValue": 764930
+            },
+            "Russia": {
+                "totalTrade": 2063001,
+                "topProduct": "Pharmaceuticals",
+                "topProductValue": 741680
+            },
+            "Greece": {
+                "totalTrade": 2017851,
+                "topProduct": "Other",
+                "topProductValue": 849660
+            },
+            "Vietnam": {
+                "totalTrade": 1870191,
+                "topProduct": "Other",
+                "topProductValue": 930317
+            },
+            "Pakistan": {
+                "totalTrade": 1392910,
+                "topProduct": "Other",
+                "topProductValue": 661428
+            },
+            "Iran": {
+                "totalTrade": 1024366,
+                "topProduct": "Agricultural Products",
+                "topProductValue": 753221
+            }
+        }
+    },
+    "India": {
+        "code": "IN",
+        "coordinates": [
+            20.5937,
+            78.9629
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 165743355,
+                "topProduct": "Other",
+                "topProductValue": 64405584
+            },
+            "Netherlands": {
+                "totalTrade": 41009594,
+                "topProduct": "Energy",
+                "topProductValue": 25295472
+            },
+            "China": {
+                "totalTrade": 33106614,
+                "topProduct": "Other",
+                "topProductValue": 10981646
+            },
+            "United Kingdom": {
+                "totalTrade": 27509944,
+                "topProduct": "Other",
+                "topProductValue": 8147106
+            },
+            "Germany": {
+                "totalTrade": 26458626,
+                "topProduct": "Other",
+                "topProductValue": 9209725
+            },
+            "Saudi Arabia": {
+                "totalTrade": 21894225,
+                "topProduct": "Other",
+                "topProductValue": 9358081
+            },
+            "Singapore": {
+                "totalTrade": 20736579,
+                "topProduct": "Energy",
+                "topProductValue": 9760459
+            },
+            "Italy": {
+                "totalTrade": 20343258,
+                "topProduct": "Other",
+                "topProductValue": 5906026
+            },
+            "Turkey": {
+                "totalTrade": 18579662,
+                "topProduct": "Energy",
+                "topProductValue": 5474369
+            },
+            "Indonesia": {
+                "totalTrade": 17885678,
+                "topProduct": "Other",
+                "topProductValue": 5203406
+            },
+            "Belgium": {
+                "totalTrade": 16948356,
+                "topProduct": "Other",
+                "topProductValue": 8930199
+            },
+            "Brazil": {
+                "totalTrade": 16870923,
+                "topProduct": "Energy",
+                "topProductValue": 5196220
+            },
+            "Australia": {
+                "totalTrade": 15948422,
+                "topProduct": "Energy",
+                "topProductValue": 7067625
+            },
+            "France": {
+                "totalTrade": 15859617,
+                "topProduct": "Other",
+                "topProductValue": 4605460
+            },
+            "South Korea": {
+                "totalTrade": 14697105,
+                "topProduct": "Other",
+                "topProductValue": 5004943
+            },
+            "Malaysia": {
+                "totalTrade": 14352304,
+                "topProduct": "Other",
+                "topProductValue": 6536599
+            },
+            "Israel": {
+                "totalTrade": 13571119,
+                "topProduct": "Energy",
+                "topProductValue": 8332820
+            },
+            "Thailand": {
+                "totalTrade": 12365725,
+                "topProduct": "Other",
+                "topProductValue": 4981380
+            },
+            "Vietnam": {
+                "totalTrade": 11973876,
+                "topProduct": "Other",
+                "topProductValue": 5360489
+            },
+            "Japan": {
+                "totalTrade": 11668555,
+                "topProduct": "Other",
+                "topProductValue": 4974872
+            },
+            "Mexico": {
+                "totalTrade": 11078446,
+                "topProduct": "Cars",
+                "topProductValue": 3529971
+            },
+            "Spain": {
+                "totalTrade": 10960978,
+                "topProduct": "Other",
+                "topProductValue": 3400403
+            },
+            "Canada": {
+                "totalTrade": 10471315,
+                "topProduct": "Other",
+                "topProductValue": 3381860
+            },
+            "Russia": {
+                "totalTrade": 6935806,
+                "topProduct": "Other",
+                "topProductValue": 3052121
+            },
+            "Poland": {
+                "totalTrade": 5805375,
+                "topProduct": "Other",
+                "topProductValue": 2076691
+            },
+            "Switzerland": {
+                "totalTrade": 5321691,
+                "topProduct": "Other",
+                "topProductValue": 2609871
+            },
+            "Iran": {
+                "totalTrade": 3333463,
+                "topProduct": "Other",
+                "topProductValue": 2573502
+            },
+            "Sweden": {
+                "totalTrade": 2290717,
+                "topProduct": "Other",
+                "topProductValue": 708837
+            },
+            "Greece": {
+                "totalTrade": 2138659,
+                "topProduct": "Other",
+                "topProductValue": 1227238
+            },
+            "Pakistan": {
+                "totalTrade": 1212789,
+                "topProduct": "Other",
+                "topProductValue": 479007
+            }
+        }
+    },
+    "Vietnam": {
+        "code": "VI",
+        "coordinates": [
+            14.0583,
+            108.2772
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 245047102,
+                "topProduct": "Other",
+                "topProductValue": 90169887
+            },
+            "China": {
+                "totalTrade": 149068385,
+                "topProduct": "Other",
+                "topProductValue": 73803982
+            },
+            "Japan": {
+                "totalTrade": 50572614,
+                "topProduct": "Other",
+                "topProductValue": 19170861
+            },
+            "Germany": {
+                "totalTrade": 28041172,
+                "topProduct": "Other",
+                "topProductValue": 9067386
+            },
+            "South Korea": {
+                "totalTrade": 26497577,
+                "topProduct": "Other",
+                "topProductValue": 8046365
+            },
+            "Canada": {
+                "totalTrade": 19188309,
+                "topProduct": "Other",
+                "topProductValue": 6821056
+            },
+            "Netherlands": {
+                "totalTrade": 18276617,
+                "topProduct": "Other",
+                "topProductValue": 5785864
+            },
+            "India": {
+                "totalTrade": 18232725,
+                "topProduct": "Other",
+                "topProductValue": 6582276
+            },
+            "United Kingdom": {
+                "totalTrade": 17974451,
+                "topProduct": "Other",
+                "topProductValue": 5201541
+            },
+            "Thailand": {
+                "totalTrade": 15562565,
+                "topProduct": "Other",
+                "topProductValue": 3939604
+            },
+            "Mexico": {
+                "totalTrade": 15284967,
+                "topProduct": "Electronics",
+                "topProductValue": 5383934
+            },
+            "Australia": {
+                "totalTrade": 13286547,
+                "topProduct": "Other",
+                "topProductValue": 4231472
+            },
+            "Malaysia": {
+                "totalTrade": 12670015,
+                "topProduct": "Electronics",
+                "topProductValue": 4097593
+            },
+            "Singapore": {
+                "totalTrade": 10394858,
+                "topProduct": "Other",
+                "topProductValue": 3864356
+            },
+            "Indonesia": {
+                "totalTrade": 10303980,
+                "topProduct": "Other",
+                "topProductValue": 3989485
+            },
+            "Italy": {
+                "totalTrade": 9901221,
+                "topProduct": "Other",
+                "topProductValue": 2896022
+            },
+            "Spain": {
+                "totalTrade": 8761920,
+                "topProduct": "Other",
+                "topProductValue": 3051109
+            },
+            "France": {
+                "totalTrade": 8471753,
+                "topProduct": "Other",
+                "topProductValue": 2839114
+            },
+            "Brazil": {
+                "totalTrade": 5634313,
+                "topProduct": "Machinery",
+                "topProductValue": 1782615
+            },
+            "Turkey": {
+                "totalTrade": 4710133,
+                "topProduct": "Other",
+                "topProductValue": 1549716
+            },
+            "Saudi Arabia": {
+                "totalTrade": 4652170,
+                "topProduct": "Electronics",
+                "topProductValue": 1586799
+            },
+            "Belgium": {
+                "totalTrade": 4010587,
+                "topProduct": "Other",
+                "topProductValue": 1441458
+            },
+            "Switzerland": {
+                "totalTrade": 3730617,
+                "topProduct": "Textiles",
+                "topProductValue": 1208809
+            },
+            "Poland": {
+                "totalTrade": 3115776,
+                "topProduct": "Other",
+                "topProductValue": 882212
+            },
+            "Sweden": {
+                "totalTrade": 2973098,
+                "topProduct": "Electronics",
+                "topProductValue": 1391282
+            },
+            "Russia": {
+                "totalTrade": 1558053,
+                "topProduct": "Other",
+                "topProductValue": 773260
+            },
+            "Israel": {
+                "totalTrade": 1547836,
+                "topProduct": "Electronics",
+                "topProductValue": 536950
+            },
+            "Pakistan": {
+                "totalTrade": 885094,
+                "topProduct": "Other",
+                "topProductValue": 362251
+            },
+            "Greece": {
+                "totalTrade": 785975,
+                "topProduct": "Electronics",
+                "topProductValue": 316838
+            },
+            "Iran": {
+                "totalTrade": 38536,
+                "topProduct": "Other",
+                "topProductValue": 33447
+            }
+        }
+    },
+    "Thailand": {
+        "code": "TH",
+        "coordinates": [
+            15.87,
+            100.9925
+        ],
+        "tradeLinks": {
+            "United States": {
+                "totalTrade": 117239174,
+                "topProduct": "Other",
+                "topProductValue": 45332620
+            },
+            "China": {
+                "totalTrade": 79911668,
+                "topProduct": "Other",
+                "topProductValue": 42355788
+            },
+            "Japan": {
+                "totalTrade": 51125144,
+                "topProduct": "Other",
+                "topProductValue": 18448808
+            },
+            "Australia": {
+                "totalTrade": 25997226,
+                "topProduct": "Cars",
+                "topProductValue": 13894096
+            },
+            "Malaysia": {
+                "totalTrade": 25905812,
+                "topProduct": "Other",
+                "topProductValue": 8469429
+            },
+            "Singapore": {
+                "totalTrade": 25324858,
+                "topProduct": "Electronics",
+                "topProductValue": 7942955
+            },
+            "Vietnam": {
+                "totalTrade": 25131222,
+                "topProduct": "Other",
+                "topProductValue": 9608017
+            },
+            "Indonesia": {
+                "totalTrade": 21985759,
+                "topProduct": "Other",
+                "topProductValue": 9091771
+            },
+            "India": {
+                "totalTrade": 21765509,
+                "topProduct": "Other",
+                "topProductValue": 8737556
+            },
+            "Germany": {
+                "totalTrade": 15263415,
+                "topProduct": "Other",
+                "topProductValue": 5120427
+            },
+            "South Korea": {
+                "totalTrade": 13269482,
+                "topProduct": "Other",
+                "topProductValue": 5311425
+            },
+            "Netherlands": {
+                "totalTrade": 10885015,
+                "topProduct": "Other",
+                "topProductValue": 4728055
+            },
+            "United Kingdom": {
+                "totalTrade": 10531922,
+                "topProduct": "Other",
+                "topProductValue": 3465463
+            },
+            "Mexico": {
+                "totalTrade": 9244397,
+                "topProduct": "Cars",
+                "topProductValue": 2689533
+            },
+            "Switzerland": {
+                "totalTrade": 7967623,
+                "topProduct": "Metals",
+                "topProductValue": 5547497
+            },
+            "Canada": {
+                "totalTrade": 6491888,
+                "topProduct": "Other",
+                "topProductValue": 2715193
+            },
+            "Saudi Arabia": {
+                "totalTrade": 6011642,
+                "topProduct": "Cars",
+                "topProductValue": 3431050
+            },
+            "France": {
+                "totalTrade": 4973368,
+                "topProduct": "Other",
+                "topProductValue": 2885377
+            },
+            "Italy": {
+                "totalTrade": 4857429,
+                "topProduct": "Other",
+                "topProductValue": 2276679
+            },
+            "Brazil": {
+                "totalTrade": 4399209,
+                "topProduct": "Other",
+                "topProductValue": 1411643
+            },
+            "Turkey": {
+                "totalTrade": 4262821,
+                "topProduct": "Other",
+                "topProductValue": 1848666
+            },
+            "Belgium": {
+                "totalTrade": 3280034,
+                "topProduct": "Other",
+                "topProductValue": 1518670
+            },
+            "Spain": {
+                "totalTrade": 3071451,
+                "topProduct": "Other",
+                "topProductValue": 1472456
+            },
+            "Pakistan": {
+                "totalTrade": 2572673,
+                "topProduct": "Cars",
+                "topProductValue": 967070
+            },
+            "Poland": {
+                "totalTrade": 1699750,
+                "topProduct": "Other",
+                "topProductValue": 708471
+            },
+            "Israel": {
+                "totalTrade": 1699103,
+                "topProduct": "Other",
+                "topProductValue": 828300
+            },
+            "Russia": {
+                "totalTrade": 1405189,
+                "topProduct": "Other",
+                "topProductValue": 797913
+            },
+            "Sweden": {
+                "totalTrade": 1176202,
+                "topProduct": "Other",
+                "topProductValue": 405559
+            },
+            "Iran": {
+                "totalTrade": 424587,
+                "topProduct": "Other",
+                "topProductValue": 271728
+            },
+            "Greece": {
+                "totalTrade": 337031,
+                "topProduct": "Other",
+                "topProductValue": 163380
+            }
+        }
+    }
+}
