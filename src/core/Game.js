@@ -25,7 +25,7 @@ class Game {
     async loadCountryData() {
         try {
             console.log('=== Debug: Loading country data ===');
-            const response = await fetch('/Trade-Game/src/data/countries.json');
+            const response = await fetch('src/data/countries.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
