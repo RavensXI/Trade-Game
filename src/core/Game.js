@@ -474,10 +474,12 @@ class Game {
         document.getElementById('first-choice').classList.remove('filled');
         document.getElementById('second-choice').classList.remove('filled');
         
-        // Reset button states
-        this.selectedOptions.forEach(index => {
-            const button = document.getElementById(`option${index + 1}`);
-            button.classList.remove('selected');
+        // Clear all button states
+        ['option1', 'option2', 'option3'].forEach(id => {
+            const button = document.getElementById(id);
+            if (button) {
+                button.classList.remove('selected');
+            }
         });
         this.selectedOptions = [];
         
